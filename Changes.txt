@@ -1,0 +1,27 @@
+=================
+NEW PROVINCES
+=================
+
+8732 - Tocobaga - Pinellas County, Hillsborough County, southern half of Pasco County, northern Manatee County. Geographic boundaries are the Gulf and Tampa Bay to the west, the Green Swamp to the east, the Manatee river to the south, and roughly the Weeki Wachee River to the north. Tampa Bay is the big geographic landmark here. I suggest marsh terrain. Named after the Tocobaga people.
+
+8733 - Kissimmee - Represents the lake-dotted regions of Polk County, Osceola County, and parts of Marion county. Name origin is uncertain, but is vaguely Native American. The current-day name of the region around Kissimmee is Osceola County, but since Osceola didn't come around until very late, I think Kissimmee is a fair name. I suggest probably savanna terrain, or maybe grassland if you're feeling generous.
+
+8734 - Myakka - Area between the Manatee and Caloosahatchee rivers. Not much here. Probably marsh terrain.
+
+8735 - Ocala - The big landmark here is the Ocala National forest. I don't think that forest or woods terrain makes sense, so probably marsh terrain.
+
+8736 - Jaega - This one can probably be cut honestly. Anything here is mostly modern-day, and I think merging it with Tequesta would work.
+
+8737 - Tequesta - Named after the Tequesta people who lived in the area until the mid-18th century. Marsh terrain?
+
+
+
+=================
+RENAMED PROVINCES
+=================
+
+2535 - Calusa -> Caloosahatchee/Calusahatchee, after the Calusa people and Caloosahatchee river.
+
+2536 - Mayaimi -> Pahokee. Seminole name for the Everglades according to Marjory Stoneman Douglas, meaning "Grassy Water."
+
+4626 - Potano -> Withlacoochee, after the Withlacoochee river that runs here. Name comes from a Creek compound word - "we" - water, "thlako" - big, "chee" - little. Little big water.
