@@ -1,3 +1,6 @@
+#8736 - Jaega
+#Named after the Jaega people that lived here.
+
 culture = creek
 religion = totemism
 capital = "Jaega"

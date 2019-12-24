@@ -1,4 +1,8 @@
-culture = creek
+#8733 - Kissimmee
+#Unfortunately, the name Kissimmee is both fairly recent and also of unknown origin. Another name could have been Osceola, but that name comes from the Seminole chief Osceola, so no dice.
+#This province contains most of modern Osceola county, as well as parts of Polk and Highlands Counties. Its western edge is roughly the Green Swamp.
+
+culture = calusa
 religion = totemism
 capital = "Kissimmee"
 trade_goods = unknown

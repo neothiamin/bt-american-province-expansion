@@ -1,3 +1,6 @@
+#8737 - Tequesta
+#Like Jaega, this province is named after the people who lived here. It encompasses much of the eastern Everglades, as well as the area around Biscayne Bay, as well as the Florida Keys.
+
 culture = creek
 religion = totemism
 capital = "Tequesta"

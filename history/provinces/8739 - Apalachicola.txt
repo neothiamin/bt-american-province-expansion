@@ -1,3 +1,6 @@
+#8739 - Apalachicola
+#This province has the mouth of the Apalachicola river in it. Not much is really here. The biggest modern settlements are places like Mexico Beach, Apalachicola, and Eastpoint.
+
 culture = creek
 religion = totemism
 capital = "Apalachicola"

@@ -1,3 +1,6 @@
+#8738 - Choctawatchee
+#The bay in this province is named Choctawatchee Bay. This province contains the areas around Panama City and Destin.
+
 culture = creek
 religion = totemism
 capital = "Freeport"
