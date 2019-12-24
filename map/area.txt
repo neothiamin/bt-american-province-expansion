@@ -3151,7 +3151,7 @@ florida_area = { #3
 }
 
 north_florida_area = { #5
-	926 927 928 2534 4625 8735 8736
+	926 927 4625 8735 8736
 }
 
 appalachia_area = { #3
@@ -3163,7 +3163,12 @@ south_appalachia_area = { #4
 }
 
 west_florida_area = {
-    921 922 923 2530 2533
+    921 922 923 2530 
+}
+
+#NEW
+big_bend_fl_area = {
+	8738 8739 2533 928 2534
 }
 
 mississippi_area = { #3
