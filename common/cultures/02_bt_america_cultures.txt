@@ -14,4 +14,19 @@ muskogean = {
 			Nahomtima Immahoka Lunnabaga
 		}
 	}
+	apalachee = {
+		dynasty_names = {
+			Chitto "Hasse Ola" Hopoethe "Talof Harjo" Yaholo Menewa Chebona Osceola Hothlepoya "Lumhe Chati"
+		}
+		male_names = {
+			"Hoboi-Hili-Miko" "Mico Malatchi" Opothleyaholo Emistesigo Fife Lamochattee Yahatatastenake Taskanugi Hatke 
+			Fuskatchemico Neathlock Hallethemalthle Opaymico Totkeshajou Hopothemico Opototaache Soholoesee Ocheehajou 
+			Tuskenaah Homatah Chinnabie Juleetaulematah Chawooklymico Coosadeshopoy Muthtee Stimafutchkee Stilnaleeje 
+			Mumagechee
+		}
+		female_names = {
+			Llanquiray Manque Millaray Peyeche Piro Pitrel Quetroman Quimey Quintruy Quintuqueo Rayen Saqui Somoche 
+			Nahomtima Immahoka Lunnabaga
+		}
+	}
 }

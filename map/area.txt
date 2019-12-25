@@ -3135,7 +3135,7 @@ carolinas_area = { #3
 }
 
 south_carolina_area = { #3
-	932 2542 2543
+	932 2542 2543 8745
 }
 
 american_georgia_area = { #3
@@ -3143,7 +3143,7 @@ american_georgia_area = { #3
 }
 
 upper_american_georgia_area = { #3
-	930 2538 2540 8742 8743 2537
+	930 2538 2540 8742 8743 2537 8744
 }
 
 florida_area = { #3

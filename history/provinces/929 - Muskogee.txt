@@ -2,7 +2,7 @@
 
 culture = creek
 religion = totemism
-capital = "Guale"
+capital = "Ogeechee"
 trade_goods = cotton
 hre = no
 base_tax = 1 

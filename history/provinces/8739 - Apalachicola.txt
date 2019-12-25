@@ -1,7 +1,7 @@
 #8739 - Apalachicola
 #This province has the mouth of the Apalachicola river in it. Not much is really here. The biggest modern settlements are places like Mexico Beach, Apalachicola, and Eastpoint.
 
-culture = creek
+culture = apalachee
 religion = totemism
 capital = "Apalachicola"
 trade_goods = unknown
@@ -9,7 +9,7 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
+native_size = 2
+native_ferocity = 3
+native_hostileness = 3
 discovered_by = north_american

@@ -1,6 +1,9 @@
-culture = creek
+#8744 - Thronateeska
+#Creek world for "flint," after the common occurrence of flint in the area. Today called the "Red Hills," though the Red Hills region extends into Florida.
+
+culture = apalachee
 religion = totemism
-capital = "Flint"
+capital = "Red Hills"
 trade_goods = unknown
 hre = no
 base_tax = 1 

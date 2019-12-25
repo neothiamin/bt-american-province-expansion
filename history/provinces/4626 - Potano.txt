@@ -2,7 +2,7 @@
 
 culture = calusa
 religion = totemism
-capital = "Potano"
+capital = "Withlacoochee"
 trade_goods = unknown
 hre = no
 base_tax = 1 
