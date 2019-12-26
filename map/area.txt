@@ -3127,11 +3127,11 @@ great_valley_area = {
 }
 
 piedmont_north_america_area = {
-    933 937 2541 2545 2549
+    933 937 2541 2545 2549 8746 8748 8750
 }
 
 carolinas_area = { #3
-    938 2546 2547
+    938 2546 2547 8747 8749
 }
 
 south_carolina_area = { #3
@@ -3163,7 +3163,7 @@ south_appalachia_area = { #4
 }
 
 west_florida_area = {
-    921 922 923 2530 
+    921 922 923 2530 8754
 }
 
 #NEW
@@ -3180,7 +3180,7 @@ choctaw_area = { #3
 }
 
 alabama_area = {
-    924 925 2531 2532
+    924 925 2531 2532 8751 8752 8753
 }
 
 kentucky_area = {

@@ -2,7 +2,7 @@
 #This province spans mostly Pinellas and Hillsborough Counties, but also contains some parts of Pasco and Polk Counties. It's focused around the Hillsborough River, pretty much.
 #The name Tocobaga comes from the Tocobaga culture that lived here. The Tocobaga were related to the Calusa. The Pohoy also lived here.
 
-culture = calusa
+culture = creek
 religion = totemism
 capital = "Tampa"
 trade_goods = unknown

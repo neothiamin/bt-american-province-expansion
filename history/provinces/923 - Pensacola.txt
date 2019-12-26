@@ -1,6 +1,6 @@
 #923 - Pensacola
 
-culture = apalachee
+culture = creek
 religion = totemism
 capital = "Pensacola"
 trade_goods = cotton

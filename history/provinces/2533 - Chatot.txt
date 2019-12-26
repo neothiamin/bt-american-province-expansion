@@ -1,6 +1,6 @@
 # No previous file for Chatot
 
-culture = apalachee
+culture = creek
 religion = totemism
 capital = "Chipola"
 trade_goods = unknown

@@ -1,6 +1,6 @@
 # No previous file for Potano
 
-culture = calusa
+culture = creek
 religion = totemism
 capital = "Withlacoochee"
 trade_goods = unknown

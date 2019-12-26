@@ -151,6 +151,9 @@ mild_winter = {
 	8070 8069 8066 1748 8071 
 	
 	972 974 975 2022 2609 2610 4941 5731 5732 5733 5734 5735 5736 5780 			#Pacific temperate rainforests, hovers right between between mild and normal winters
+	
+	#BT America Addon
+	8748 8750 8747 8749 8746
 }
 
 #Generally places where snow is nearly guaranteed any given year, and average winter temperatures hover around 0C
