@@ -6,8 +6,6 @@ v1.1 - No New Provinces
 * Fixed Pascagoula's capital's name
 * Bumped some development numbers
 
-
-
 v1-2
 Update to fix thumbnail
 
