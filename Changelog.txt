@@ -1,0 +1,15 @@
+v1.1 - No New Provinces
+
++ Added new Colonial Florida region
++ Added some British localized naming for new provinces
+
+* Fixed Pascagoula's capital's name
+* Bumped some development numbers
+
+
+
+v1-2
+Update to fix thumbnail
+
+v1
+Initial Release!

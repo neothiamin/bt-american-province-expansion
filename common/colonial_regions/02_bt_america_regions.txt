@@ -1,0 +1,75 @@
+
+#Florida
+colonial_florida = {
+	color = { 150 150 230 }			#Lavender
+	
+	# Random New World
+	tax_income = 0
+	native_size = 10
+	native_ferocity = 1
+	native_hostileness = 3
+	
+	trade_goods = {
+		fish = 10
+		naval_supplies = 10
+	}
+	
+	culture = {
+		arawak = 15
+	}
+	
+	religion = {
+		shamanism = 10
+	}
+
+	provinces = {		
+		921 922 923 926 927 928 2530 2533 2534 2535 2536 4625 4626
+		8732 8733 8734 8735 8736 8737 8738 8739 8754
+	}
+
+	# Specific
+	names = {
+		trigger = { culture_group = french }
+		name = "COLONIAL_FLORIDA_Floride"
+	}
+	names = {
+		trigger = { culture_group = gaelic }
+		name = "COLONIAL_FLORIDA_Tir_Bhlafar"
+	}
+	names = {
+		trigger = {
+			culture_group = germanic
+			NOT = {
+				primary_culture = dutch
+				tag = NED
+				tag = HOL
+			}
+		}
+		name = "COLONIAL_FLORIDA_Osterkueste"
+	}
+	names = {
+		trigger = { culture_group = byzantine }
+		name = "COLONIAL_FLORIDA_Florinta"
+	}
+	names = {
+		name = "COLONIAL_FLORIDA_Florida"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = SPA
+				tag = CAS
+				tag = ARA
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Florida"
+	}
+	
+	# Generic
+	names = {
+		name = "COLONIAL_EASTERN_AMERICA_Florida"
+	}
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+}

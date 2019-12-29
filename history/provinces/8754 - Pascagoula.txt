@@ -1,6 +1,6 @@
 culture = choctaw
 religion = totemism
-capital = "Psacagoula"
+capital = "Pascagoula"
 trade_goods = unknown
 hre = no
 base_tax = 1 
