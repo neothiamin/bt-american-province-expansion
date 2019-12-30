@@ -1,0 +1,17 @@
+culture = cherokee		#"While the origins of the name-place have long been debated and remain unclear, it is believed to be derived from the name of the Cherokee village Na’na-tlu gun’yi, or "Spruce-Tree Place""
+religion = totemism
+capital = "Nolichucky"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+owner = CHE
+add_core = CHE
+controller = CHE
+#native_size = 6
+#native_ferocity = 1
+#native_hostileness = 2
+
+discovered_by = north_american

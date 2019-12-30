@@ -1,0 +1,13 @@
+culture = powhatan		 #This is a bit of a stretch, honestly. The Machapunga were Algonquian, that much is certain, and thus at least slightly related to the Powhatan, though related more closely to other tribes like the Pamlico, Neuse, and Chowan.
+religion = totemism
+capital = "Mattamuskeet" #According to http://homepages.rootsweb.com/~jmack/algonqin/speck.htm, "the Machapunga had one town, called Maramuskeet (Mattamuskeet) containing thirty fighting men."
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 2
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = north_american

@@ -1,0 +1,13 @@
+culture = creek 	#The Taensa/Tensaw for which this province and the river here are named only migrated to the region in the early 18th century. One can probably assume that a Creek-related tribe lived here prior.
+religion = totemism
+capital = "Tensaw"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 1
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = north_american

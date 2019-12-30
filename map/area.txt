@@ -3131,7 +3131,7 @@ piedmont_north_america_area = {
 }
 
 carolinas_area = { #3
-    938 2546 2547 8747 8749
+    938 2546 2547 8747 8749 8755
 }
 
 south_carolina_area = { #3
@@ -3159,11 +3159,11 @@ appalachia_area = { #3
 }
 
 south_appalachia_area = { #4
-	931 935 936 2527
+	931 935 936 2527 8765 8767
 }
 
 west_florida_area = {
-    921 922 923 2530 8754
+    921 922 923 2530 8754 8757 8758 8759
 }
 
 #BT America - NEW
@@ -3171,12 +3171,12 @@ big_bend_fl_area = {
 	8738 8739 2533 928 2534
 }
 
-mississippi_area = { #3
-    918 919 939
+mississippi_area = { #3	
+	920 2528 2529 8763 8762
 }
 
 choctaw_area = { #3
-	920 2528 2529 
+	918 919 939 8764 8768
 }
 
 alabama_area = {
@@ -3216,7 +3216,7 @@ wisconsin_area = { #3
 }
 
 lower_louisiana_area = { # 5
-    893 894 895 2014 2516
+    893 894 895 2014 2516 8761
 }
 
 upper_louisiana_area = {
@@ -4827,4 +4827,6 @@ unused_area = {
 	7103 7116 7121 7153 
 	
 	5865 7713 7719 7720 7742	#Both added then cut before release in 11.5
+
+	#8755 8756 8757 8758 8759 8760 8761 8762 8763 8764 8765 8766 8767 8768
 	}

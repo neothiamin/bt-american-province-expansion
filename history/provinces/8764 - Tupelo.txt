@@ -1,0 +1,17 @@
+culture = chickasaw		#Evidently both the Chickasaw and Choctaw lived in and around the Tupelo area.
+religion = totemism
+capital = "Tupelo"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+#native_size = 8
+#native_ferocity = 1
+#native_hostileness = 2
+is_city = yes
+owner = CHI
+add_core = CHI
+controller = CHI
+
+discovered_by = north_american

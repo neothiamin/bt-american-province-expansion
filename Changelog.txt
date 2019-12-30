@@ -1,3 +1,7 @@
+v1.2 - Many new provinces
+
++ New provinces in North Carolina, the Gulf Coast, Mississippi, and Tennessee
+
 v1.1 - No New Provinces
 
 + Added new Colonial Florida region

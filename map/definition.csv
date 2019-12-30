@@ -8753,7 +8753,7 @@ province;red;green;blue;x;x
 8752;182;88;88;Alabama Coosa;x
 8753;118;50;50;Tombigbee;x
 8754;87;146;87;Pascagoula;x
-8755;85;173;85;Machapunga
+8755;85;173;85;Machapunga;x
 8756;169;112;169;Edisto;x
 8757;85;85;227;Tensaw;x
 8758;139;85;85;Bogalousa;x
@@ -8763,3 +8763,7 @@ province;red;green;blue;x;x
 8762;85;91;85;Fork;x
 8763;85;85;118;Homochitto;x
 8764;113;168;168;Tupelo;x
+8765;30;235;30;Natachucky;x
+8766;90;169;169;Hiwassee;x
+8767;30;250;30;Chattanooga;x
+8768;149;169;169;Hatchee;x
