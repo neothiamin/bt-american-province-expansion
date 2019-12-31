@@ -1,0 +1,13 @@
+culture = powhatan #The Rappahannock people are an Algonquian-speaking tribe, and I've been using Powhatan for a NC-VA Algonquian catch-all culture. In the future I might split the culture up.
+religion = totemism
+capital = "Topahanocke"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = north_american

@@ -1,0 +1,13 @@
+culture = pequot #Paradox seems to be using Pequot for all Algonquian peoples in the Connecticut/Rhode Island/general Southern New England region, so I'll follow suit.
+religion = totemism
+capital = "Unkechaug"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1
+native_size = 12
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = north_american

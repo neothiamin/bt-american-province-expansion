@@ -1,0 +1,13 @@
+culture = pequot #"The name "Mohegan" probably originally referred to a particular Pequot clan, which eventually fought its way to control of the Pequot Nation." http://www.native-languages.org/mohegan.htm
+religion = totemism
+capital = "Mohegan"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 9
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = north_american
