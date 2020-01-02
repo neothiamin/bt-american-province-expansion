@@ -1,6 +1,7 @@
 v1.2 - Many new provinces
 
 + New provinces in North Carolina, the Gulf Coast, Mississippi, and Tennessee
++ New provinces in Virginia, Maryland, New England, and New York
 
 v1.1 - No New Provinces
 

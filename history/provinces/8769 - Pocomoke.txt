@@ -1,0 +1,13 @@
+culture = delaware	#The people who lived here were actually called the Nanticoke, and the existing province of Nanticoke has the Powhatan living here, but my sources say otherwise so I'm putting the Delaware here.
+religion = totemism
+capital = "Pocomoke"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = north_american
