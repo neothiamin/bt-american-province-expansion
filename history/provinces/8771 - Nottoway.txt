@@ -1,6 +1,6 @@
-culture = iroquois #The Nottoway are related to the Iroquois, similarly to the Tuscarora in North Carolina
+culture = iroquois #The Cheroenhaka are related to the Iroquois, similarly to the Tuscarora in North Carolina
 religion = totemism
-capital = "Meherrin"
+capital = "Cattashowrock"
 trade_goods = unknown
 hre = no
 base_tax = 2 
