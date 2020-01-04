@@ -1,0 +1,9 @@
+every_province = {
+	limit = {
+		OR = {
+			region = peru_region
+			#region = upper_peru_region
+		}
+	}
+	cede_province = ROOT
+}
