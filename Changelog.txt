@@ -1,7 +1,13 @@
 v1.2 - Many new provinces
 
-+ New provinces in North Carolina, the Gulf Coast, Mississippi, and Tennessee
-+ New provinces in Virginia, Maryland, New England, and New York
++ New provinces: 23 in total
+	+ North Carolina: 1 (Machapunga)
+	+ West Florida: 3 (Tensaw, Bogalusa, Tangipahoa)
+	+ Louisiana: 1 (Atchafalaya)
+	+ Mississippi: 3 (Tallahatchee, Homochitto, Tupelo)
+	+ Tennessee: 3 (Nolichucky, Chattanooga, Hatchee)
+	+ Maryland + Virginia: 5 (Pocomoke, Rappahannock, Cheroenhaka, Occaneechi, Patapsco)
+	+ New York + New England: 7 (Mohegan, Unkechaug, Pontoosuck, Naugatuck, Willimantic, Taunton, Cape Cod)
 
 v1.1 - No New Provinces
 
