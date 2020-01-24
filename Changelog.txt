@@ -1,3 +1,10 @@
+v1.2.1 - The Great ID Shift
+*** ABSOLUTELY NOT SAVEGAME COMPATIBLE***
+
+* "Updated" to 1.29.4
+* No new provinces
+* In this update, I adjusted literally every new province ID to ones that were already defined in BT's definition.csv file for future compatibility. If you don't know what that means then don't worry. If you do, then you understand why I did it.
+
 v1.2 - Many new provinces
 
 + New provinces: 23 in total
