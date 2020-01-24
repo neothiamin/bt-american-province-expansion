@@ -153,6 +153,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 650;8544;sea;1400;-1;-1;-1;-1;Tidore-Weda
 95;8112;sea;1269;-1;-1;-1;-1;Breda-Rotterdam
 100;7954;sea;1269;-1;-1;-1;-1;Frisia-West Frisia
-965;8773;sea;1500;-1;-1;-1;-1;Manhattan-Unkechaug
-2010;8772;sea;1500;-1;-1;-1;-1;Connecticut-Mohegan
+965;7321;sea;1500;-1;-1;-1;-1;Manhattan-Unkechaug
+2010;7320;sea;1500;-1;-1;-1;-1;Connecticut-Mohegan
 -1;-1;;-1;-1;-1;-1;-1;-1;

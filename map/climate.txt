@@ -49,7 +49,7 @@ tropical = {
 	#8610 8660 8661 8662 8663 8664 8665 8666			Removed Sea Provinces
 
 	#BT Gulf
-	926	8736 8737 2535
+	926	7284 7285 2535
 }
 
 #Using this only for true deserts, generally with under 200mm or so annual precipitation, and with sand dunes or sun-baked rock
@@ -153,7 +153,7 @@ mild_winter = {
 	972 974 975 2022 2609 2610 4941 5731 5732 5733 5734 5735 5736 5780 			#Pacific temperate rainforests, hovers right between between mild and normal winters
 	
 	#BT America Addon
-	8750 8749 8746
+	7298 7297 7294
 }
 
 #Generally places where snow is nearly guaranteed any given year, and average winter temperatures hover around 0C
