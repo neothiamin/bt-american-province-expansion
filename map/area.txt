@@ -3389,7 +3389,7 @@ northeast_mexico_area = { #5
 }
 
 durango_area = { #3
-    860 4647 4648 4646 4648
+    860 4647 4648 4646
 }
 
 chihuahua_area = { #4

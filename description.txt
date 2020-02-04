@@ -1,15 +1,6 @@
 Hi! I'm neothiamin, and this is my new Beyond Typus Addon entitled American Province Expansion.
 
-The goal of this mod is to add provinces and reshape province borders in North and South America and increase the level of detail in those regions to somewhere between vanilla and Beyond Typus' Cascadia. 
-
-So far I have covered the following regions:
-
-- Florida
-- Georgia (US)
-- South Carolina
-- North Carolina
-- Alabama
-- Mississippi (the state)
+The goal of this mod is to add provinces and reshape province borders in North and South America and increase the level of detail in those regions to somewhere between vanilla and Beyond Typus' Cascadia.
 
 If you have any questions, please, do not hesitate to ask. Report any bugs in the bug report discussion below.
 
