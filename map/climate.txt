@@ -153,7 +153,7 @@ mild_winter = {
 	972 974 975 2022 2609 2610 4941 5731 5732 5733 5734 5735 5736 5780 			#Pacific temperate rainforests, hovers right between between mild and normal winters
 	
 	#BT America Addon
-	7298 7297 7294
+	7298 7297 7294 7315 7316 7313
 }
 
 #Generally places where snow is nearly guaranteed any given year, and average winter temperatures hover around 0C
@@ -202,6 +202,9 @@ normal_winter = {
 	4677 4676 4670 4669 4671 4653 4661 7920 7923 4674 2106 1850 
 	
 	976 2611 2613 5727 5728 5729 			#Pacific temperate rainforests, hovers right between between mild and normal winters
+	
+	#APE
+	7317 7318 7319 7320 7321 7322 7323 7324 7325 7326 7327 7328
 }
 
 #Generally places with accumulating snowpack, severe winter storms, and average winter temperatures well under 0C
