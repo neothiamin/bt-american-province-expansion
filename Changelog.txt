@@ -1,3 +1,10 @@
+v1.3:
+
++ New provinces: 15 in total
++ New culture: Karankawa
+* Fixed some missing winters in provinces
+* Updated positions to match Bugfixing BT 12 (hopefully)
+
 v1.2.1 - The Great ID Shift
 *** ABSOLUTELY NOT SAVEGAME COMPATIBLE***
 
