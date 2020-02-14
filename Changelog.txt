@@ -1,6 +1,10 @@
 v1.3:
 
 + New provinces: 15 in total
+	+ Texas: 8 (Atascosa, Aransas, Auia, Emet, Chisos, Manso, Limpia, Hainai)
+	+ Louisiana: 3 (Calcasieu, Yatassi, Ouachita)
+	+ Arkansas: 3 (Ponca, Wapanocca, Nasoni)
+	+ Chesapeake: 1 (Accomac)
 + New culture: Karankawa
 * Fixed some missing winters in provinces
 * Updated positions to match Bugfixing BT 12 (hopefully)
