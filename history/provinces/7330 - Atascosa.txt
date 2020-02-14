@@ -1,0 +1,13 @@
+culture = chichimecan	#The province right next to it is Chichimecan, and I know that Coahuiltecan people lived here, so...?
+religion = totemism
+capital = "Atascosa"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = north_american

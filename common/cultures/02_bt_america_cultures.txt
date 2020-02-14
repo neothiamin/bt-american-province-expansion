@@ -30,3 +30,20 @@ muskogean = {
 		}
 	}
 }
+
+karankawa = {
+	karankawa_c = {
+		dynasty_names = {
+			Aransas Karankawa Auia Atakapa Copan Cujan Guapite Carancaguase
+		}
+		#Taken from Caddo		
+		male_names = {
+			Tashar Tsauninot Sationwnhown Tinnehinan Tinnowin Chowabah Kianhoon Tiatesun Tehowawinow Tewinnun 
+			Tiohtow Tehawahinno Toackooch Tchowainin Sanninow Sauninot Hiahidock Mattan Towahinnek Aach 
+			Sohone Ossinse Soakiantow Kardy
+		}
+		female_names = {
+			Zacado Tstakurriwax Tstaka Tstarahuxtu Tsaktahiraas Tskusaski Tstaruri'u Tstapittarius
+		}
+	}
+}
