@@ -79,6 +79,8 @@ arid = {
 	862 875 878 2492 2493
 	#Upper Nile
 	1228 1231 1234 2322 2797 5277 5278 5279 5281 5284 5302 
+	#BT APE
+	7341 7342 7343
 }
 
 #Generally using this for areas around or above the tree line, with at least sporadic permafrost, average winter temperatures of at least -20C, and yearly mean temperature of at least sub zero
