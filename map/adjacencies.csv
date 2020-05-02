@@ -58,17 +58,17 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 431;2999;sea;1334;-1;-1;-1;-1;Mogostan-Hormuz
 2999;5249;sea;1334;-1;-1;-1;-1;Hormuz-Khasab
 4351;4352;sea;1397;-1;-1;-1;-1;Buglas-Cebu
-7184;7195;sea;1323;-1;-1;-1;-1;Kinburn-Ochakiv
+7194;7195;sea;1322;-1;-1;-1;-1;Kinburn-Ochakiv
 35;7857;sea;1926;-1;-1;-1;-1;Hiiumaa-Ösel
 3231;35;sea;1256;-1;-1;-1;-1;Haapsalu-Ösel
 3018;4364;sea;1283;-1;-1;-1;-1;Argyll-Inner Hebrides
 252;4364;sea;1283;-1;-1;-1;-1;Inverness-Inner Hebrides
 3137;4364;sea;1283;-1;-1;-1;-1;Ross-Inner Hebrides
 747;2890;sea;1529;-1;-1;-1;-1;Amapa-Marajo
-782;2869;sea;1538;-1;-1;-1;-1;Tierra Del Fuego-Florida Blanca
+782;2869;sea;1539;-1;-1;-1;-1;Tierra Del Fuego-Florida Blanca
 782;783;sea;1539;-1;-1;-1;-1;Tierra Del Fuego-Kawesqar
 778;2851;sea;1536;-1;-1;-1;-1;Rio de la Plata-Colonia
-4993;4995;sea;1489;-1;-1;-1;-1;Naujaat-Shugliaq
+4993;4995;sea;5462;-1;-1;-1;-1;Naujaat-Shugliaq
 4974;5019;sea;1495;-1;-1;-1;-1;Grand Bank-Saint Pierre
 1240;5817;sea;1697;-1;-1;-1;-1;Hawaii-Maui
 5817;5029;sea;1697;-1;-1;-1;-1;Maui-Oahu
@@ -81,7 +81,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 985;983;sea;1491;-1;-1;-1;-1;Mikmaq-Epekwitk
 2559;5060;sea;1903;-1;-1;-1;-1;Adirondack-Mamhlawbagak
 366;5096;sea;1471;-1;-1;-1;-1;The Canarias-Tenerife
-1775;1983;sea;1258;-1;-1;-1;-1;Holstein-Lolland
+1775;1983;sea;5494;-1;-1;-1;-1;Holstein-Lolland
 3;3121;sea;1255;-1;-1;-1;-1;Smaland-Kalmar
 227;3108;sea;1292;-1;-1;-1;-1;Lisboa-Setubal
 7193;7200;sea;1322;-1;-1;-1;-1;Ichki-KyzylYar
@@ -155,4 +155,28 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 100;7954;sea;1269;-1;-1;-1;-1;Frisia-West Frisia
 965;7321;sea;1500;-1;-1;-1;-1;Manhattan-Unkechaug
 2010;7320;sea;1500;-1;-1;-1;-1;Connecticut-Mohegan
+502;5581;sea;1522;-1;-1;-1;-1;Trinidad-Tobago
+5582;500;sea;1522;-1;-1;-1;-1;Grenada-St Vincent
+500;499;sea;1522;-1;-1;-1;-1;St Vincent-St Lucia
+499;498;sea;1522;-1;-1;-1;-1;St Lucia-Martinique
+498;497;sea;1523;-1;-1;-1;-1;Martinique-Dominica
+497;496;sea;1523;-1;-1;-1;-1;Dominica-Guadelope
+496;5583;sea;1523;-1;-1;-1;-1;Guadelope-Monserrat
+5583;494;sea;1523;-1;-1;-1;-1;Monserrat-St Kitts
+5583;495;sea;1523;-1;-1;-1;-1;Monserrat-Antigua & Barbuda
+494;5586;sea;1523;-1;-1;-1;-1;St Kitts-St Martin
+5586;5585;sea;1523;-1;-1;-1;-1;St Martin-St Barthelemy
+5585;1881;sea;1523;-1;-1;-1;-1;St Barthelemy-Anguilla
+1881;5586;sea;1523;-1;-1;-1;-1;Anguilla-St Martin
+5584;493;sea;1526;-1;-1;-1;-1;St Croix-St Thomas
+493;492;sea;1526;-1;-1;-1;-1;St Thomas-Puerto Rico
+492;5584;sea;1526;-1;-1;-1;-1;Puerto Rico-St Croix
+5576;5575;sea;1503;-1;-1;-1;-1;Acklins-Long Island
+5575;5574;sea;1503;-1;-1;-1;-1;Long Island-Eleuthera
+5574;482;sea;1503;-1;-1;-1;-1;Eleuthera-Bahama
+5577;483;sea;1524;-1;-1;-1;-1;Inagua-Turks & Caicos
+5577;5576;sea;1524;-1;-1;-1;-1;Inagua-Acklins
+5578;2808;sea;1519;-1;-1;-1;-1;Aruba-Coro
+491;2808;sea;1519;-1;-1;-1;-1;Curacao-Coro
+2807;830;sea;1519;-1;-1;-1;-1;Altagracia-Maracaibo
 -1;-1;;-1;-1;-1;-1;-1;-1;

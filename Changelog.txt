@@ -1,3 +1,9 @@
+v1.3.2:
+
+(Should be savegame compatible)
+
+* Fixed many things to restore consistency with Bugfixing BT 12.0 (thanks Dub)
+
 v1.3.1:
 
 (Should be savegame compatible)
