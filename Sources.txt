@@ -27,3 +27,5 @@ Texas Map 1: https://legacy.lib.utexas.edu/maps/atlas_texas/ethnolinguistic_nati
 Mid-Atlantic Map 1: https://www.davidrumsey.com/luna/servlet/s/00bvyl
 
 Mexico 1: https://www.davidrumsey.com/luna/servlet/s/gav6sq
+
+New York Map 1: https://www.davidrumsey.com/luna/servlet/s/g00ee1
