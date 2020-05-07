@@ -7,6 +7,5 @@ dependencies={
 	"BT Addon: Bugfixing BT 12.0"
 }
 picture="thumbnail.png"
-name="-BT Addon: American Province Expansion"
+name="-BT Addon: American Province Expansion TESTING"
 supported_version="1.29.*"
-remote_file_id="1950142393"
