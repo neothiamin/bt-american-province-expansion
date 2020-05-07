@@ -1,0 +1,12 @@
+culture = delaware
+religion = totemism
+capital = "Pahaquarra" #Derived from Lenape "the place between the mountains beside the waters." Damn, that's a lot to convey
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_manpower = 1
+base_production = 1 
+native_size = 8 #Kinda low, but the place is hilly/mountainous so /shrug
+native_ferocity = 3
+native_hostileness = 5
+discovered_by = north_american

@@ -211,7 +211,7 @@ normal_winter = {
 	976 2611 2613 5727 5728 5729 			#Pacific temperate rainforests, hovers right between between mild and normal winters
 	
 	#APE
-	7317 7318 7319 7320 7321 7322 7323 7324 7325 7326 7327 7328 7329
+	7317 7318 7319 7320 7321 7322 7323 7324 7325 7326 7327 7328 7329 7344 7345 7346 7347 7348 7349
 }
 
 #Generally places with accumulating snowpack, severe winter storms, and average winter temperatures well under 0C

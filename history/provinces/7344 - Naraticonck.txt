@@ -1,0 +1,13 @@
+culture = delaware #Why on Earth is this "Delaware" and not "Lenape," which seems to be the closest parallel...
+religion = totemism
+capital = "Naraticonck"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_manpower = 1
+base_production = 1 
+native_size = 15 #Fuck if I know
+native_ferocity = 2
+native_hostileness = 4
+
+discovered_by = north_american

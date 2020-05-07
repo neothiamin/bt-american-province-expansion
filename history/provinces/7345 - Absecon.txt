@@ -1,0 +1,13 @@
+culture = delaware #Why on Earth is this "Delaware" and not "Lenape," which seems to be the closest parallel...
+religion = totemism
+capital = "Absecon" #From Lenape "place of swans"
+trade_goods = unknown
+hre = no
+#1/1/1 I think is warranted here
+base_tax = 1
+base_manpower = 1
+base_production = 1 
+native_size = 15
+native_ferocity = 2
+native_hostileness = 4
+discovered_by = north_american
