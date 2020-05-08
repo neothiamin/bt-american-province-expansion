@@ -1,3 +1,10 @@
+v1.4:
+
++ New provinces:
+
+	+ New Jersey - 4 (Naraticonck, Absecon, Pahaquarra, Ramapo)
+	+ New York - 2 (Wappinger, Twischsawkin)
+
 v1.3.2:
 
 (Should be savegame compatible)
