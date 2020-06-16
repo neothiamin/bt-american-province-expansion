@@ -43,7 +43,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1548;1515;canal;835;-1;-1;-1;-1;panama_canal
 1328;1316;canal;363;-1;-1;-1;-1;suez_canal
 2348;318;sea;5493;-1;-1;-1;-1;Chios-Sugla
-3173;2296;sea;1319;-1;-1;-1;-1;Lesbos-Biga
+4700;2296;sea;1319;-1;-1;-1;-1;Lesbos-Biga
 3245;2447;sea;1323;-1;-1;-1;-1;Kerch-Mapa
 536;2100;sea;1340;-1;-1;-1;-1;Madurai-Vanni
 2803;502;sea;1522;-1;-1;-1;-1;Orinoco Delta-Trinidad
@@ -61,8 +61,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 7194;7195;sea;1322;-1;-1;-1;-1;Kinburn-Ochakiv
 35;7857;sea;1926;-1;-1;-1;-1;Hiiumaa-Ösel
 3231;35;sea;1256;-1;-1;-1;-1;Haapsalu-Ösel
-3018;4364;sea;1283;-1;-1;-1;-1;Argyll-Inner Hebrides
-252;4364;sea;1283;-1;-1;-1;-1;Inverness-Inner Hebrides
+4363;4364;sea;1283;-1;-1;-1;-1;Argyll-Inner Hebrides
+8155;4364;sea;1283;-1;-1;-1;-1;Locahber-Inner Hebrides
 3137;4364;sea;1283;-1;-1;-1;-1;Ross-Inner Hebrides
 747;2890;sea;1529;-1;-1;-1;-1;Amapa-Marajo
 782;2869;sea;1539;-1;-1;-1;-1;Tierra Del Fuego-Florida Blanca
@@ -85,7 +85,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 3;3121;sea;1255;-1;-1;-1;-1;Smaland-Kalmar
 227;3108;sea;1292;-1;-1;-1;-1;Lisboa-Setubal
 7193;7200;sea;1322;-1;-1;-1;-1;Ichki-KyzylYar
-3173;5131;sea;1319;-1;-1;-1;-1;Lesbos-Ayvalik
+4700;5131;sea;1319;-1;-1;-1;-1;Lesbos-Ayvalik
 741;502;sea;1522;-1;-1;-1;-1;Cumana-Trinidad
 741;5579;sea;1520;-1;-1;-1;-1;Cumana-Waikeri
 484;4622;sea;1518;-1;-1;-1;-1;Havana-Siwanea
@@ -109,24 +109,24 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2609;5866;sea;1559;-1;-1;-1;-1;Tsmsyan-Kichxaan
 2021;5030;sea;1556;-1;-1;-1;-1;Miwok-Ohlone
 5030;5814;sea;1556;-1;-1;-1;-1;Ohlone-Ohloneii
-3176;7125;sea;1312;-1;-1;-1;-1;Cephalonia-Lefkada
-3176;7126;sea;1312;-1;-1;-1;-1;Cephalonia-Zakynthos
+4698;7125;sea;1312;-1;-1;-1;-1;Cephalonia-Lefkada
+4698;7126;sea;1312;-1;-1;-1;-1;Cephalonia-Zakynthos
 3178;7112;sea;1312;-1;-1;-1;-1;Patras-Naupaktos
 142;7140;sea;1311;-1;-1;-1;-1;Corfu-Butrint
 142;7132;sea;1311;-1;-1;-1;-1;Corfu-Thesprotia
 2348;4309;sea;5493;-1;-1;-1;-1;Chios-Aydin
-2296;7135;sea;1319;-1;-1;-1;-1;Biga-Gallipoli
+2296;4779;sea;1319;-1;-1;-1;-1;Biga-Gallipoli
 7110;7113;sea;1319;-1;-1;-1;-1;Oreoi-ZetounionBodonitsa
 7110;7117;sea;1319;-1;-1;-1;-1;Oreoi-Demetrias
 164;7109;sea;5493;-1;-1;-1;-1;Naxos-Chalcis
 4565;5096;sea;1471;-1;-1;-1;-1;Tenerife-GranCanaria
-47;7814;sea;1257;-1;-1;-1;-1;Stralsund-Rugen
+47;4745;sea;1257;-1;-1;-1;-1;Stralsund-Rugen
 2994;7816;sea;1257;-1;-1;-1;-1;Wolgast-Usedom
 7816;7818;sea;1257;-1;-1;-1;-1;Usedom-Kammin
 40;7833;sea;1927;-1;-1;-1;-1;Memel-Sambia
 5642;7851;sea;1260;-1;-1;-1;-1;Gdov-Ugandi
 7730;7731;sea;1309;-1;-1;-1;-1;Makarska-Brac
-3192;7731;sea;1309;-1;-1;-1;-1;Spalato-Brac
+136;7731;sea;1309;-1;-1;-1;-1;Spalato-Brac
 137;7731;sea;1309;-1;-1;-1;-1;Ragusa-Brac
 7734;7735;sea;1308;-1;-1;-1;-1;Senj-Krk
 130;7735;sea;1308;-1;-1;-1;-1;Istria-Krk
@@ -155,6 +155,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 100;7954;sea;1269;-1;-1;-1;-1;Frisia-West Frisia
 965;7321;sea;1500;-1;-1;-1;-1;Manhattan-Unkechaug
 2010;7320;sea;1500;-1;-1;-1;-1;Connecticut-Mohegan
+8164;3009;sea;1285;-1;-1;-1;-1;Wexford-Waterford
+242;8138;sea;1284;-1;-1;-1;-1;Carnarvonshire-Anglesey
+235;238;sea;1269;-1;-1;-1;-1;Kent-Essex
+248;8150;sea;1280;-1;-1;-1;-1;Lothian-Fife
 502;5581;sea;1522;-1;-1;-1;-1;Trinidad-Tobago
 5582;500;sea;1522;-1;-1;-1;-1;Grenada-St Vincent
 500;499;sea;1522;-1;-1;-1;-1;St Vincent-St Lucia

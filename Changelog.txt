@@ -4,6 +4,7 @@ v1.4:
 
 	+ New Jersey - 4 (Naraticonck, Absecon, Pahaquarra, Ramapo)
 	+ New York - 2 (Wappinger, Twischsawkin)
+	+ Oh, and updated for BT 13 and EU4 1.30
 
 v1.3.2:
 
