@@ -1,9 +1,9 @@
-version="1.2.1"
+version="1.4"
 tags={
 	"Map"
 }
 dependencies={
-	"BT 13 Beta"
+	"Beyond Typus"
 }
 picture="thumbnail.png"
 name="-BT Addon: American Province Expansion TESTING"
