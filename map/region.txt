@@ -147,7 +147,7 @@ south_german_region = {
 		tirol_area
 		austria_proper_area
 		inner_austria_area
-		#carinthia_area			#Temporarily disabled, as it contains only 1 province for the moment
+		#carniola_area			#Temporarily disabled, as it contains only 1 province for the moment
 		switzerland_area
 		lower_bavaria_area
 		upper_bavaria_area
@@ -162,7 +162,7 @@ south_german_region = {
 		bohemia_area
 		#BTADDITIONS
 		moravia_area
-		carniola_area
+		carinthia_area
 		bohemian_forest_area
 	}
 }
@@ -1887,7 +1887,7 @@ unused_region = {
 		gujarat_area
 		central_doab_area
 		nepalese_area
-		carinthia_area			#Temporarily disabled
+		#carinthia_area			#Re-enabled in BT 13/APE 1.4.1
 		basque_country
 		oran_area			#repurposing 1.28's new barbary_coast_area into a replacement for this old BT area
 		magadan_area			#removed in vanilla 1.29

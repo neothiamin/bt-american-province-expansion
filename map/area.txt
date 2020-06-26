@@ -976,8 +976,8 @@ inner_austria_area = { #3
 
 #Temporarily devoid of provinces. A regional overhaul of the region will almost certainly reintroduce enough provinces to restore the area.
 carinthia_area = { #3
-	color = { 46 217 110 }
-	 
+	color = { 46 217 110 }	 
+	129 7760 7761 7762 7764 8217
 }
 
 switzerland_area = { #4
@@ -4036,9 +4036,8 @@ vidin_area = {
 	2746 7707 7714 7715 
 }
 
-carniola_area = {
-	129 7760 7761 7762 7764 8217
-}
+#carniola_area = {
+#}
 
 #########################
 ########## 12.0 ##########

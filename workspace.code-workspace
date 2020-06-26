@@ -4,13 +4,16 @@
 			"path": "."
 		},
 		{
-			"path": "..\\..\\..\\Paradox Interactive\\Europa Universalis IV\\mod\\bt_13_beta"
-		},
-		{
 			"path": "..\\..\\..\\Paradox Interactive\\Europa Universalis IV\\mod\\ape_names"
 		},
 		{
 			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\workshop\\content\\236850\\1931341549"
+		},
+		{
+			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\common\\Europa Universalis IV"
+		},
+		{
+			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\workshop\\content\\236850\\2138490092"
 		}
 	],
 	"settings": {}
