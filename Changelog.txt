@@ -1,3 +1,7 @@
+v1.4.4:
+
+* Forwarded BT updates as of June 27
+
 v1.4.3:
 
 * Fixed all provinces to the right of a certain point being off by one pixel. I have no excuse.
