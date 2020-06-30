@@ -1,3 +1,7 @@
+v1.4.5:
+
+* Fixed lots of positions that I messed up in the BT 13 update
+
 v1.4.4:
 
 * Forwarded BT updates as of June 27
