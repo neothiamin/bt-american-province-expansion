@@ -1,0 +1,8 @@
+types = {
+    type[province_id] = {
+        path_file = "/map/definition.csv"
+    }
+    type[area] = {
+        path_file = "/map/area.txt"
+    }
+}

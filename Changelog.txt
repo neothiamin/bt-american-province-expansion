@@ -1,3 +1,7 @@
+v1.4.6:
+
+* Updated terrain.txt to match BT 13.0.8
+
 v1.4.5:
 
 * Fixed lots of positions that I messed up in the BT 13 update
