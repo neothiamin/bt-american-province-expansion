@@ -1,3 +1,7 @@
+1.4.8:
+
+* Fixed missing winters in Peedee, Cape Lookout, and Machapunga
+
 1.4.7:
 
 * Updated positions and trade nodes to match BT 13.0.11
