@@ -2,6 +2,8 @@ Hi! I'm neothiamin, and this is my new Beyond Typus Addon entitled American Prov
 
 The goal of this mod is to add provinces and reshape province borders in North and South America and increase the level of detail in those regions to somewhere between vanilla and Beyond Typus' Cascadia.
 
+The images shown above are not totally up to date, but they demonstrate (roughly) the level of detail you can expect from this mod. I will endeavor to update the images often, and, of course, if you have screenshots of your playthroughs with American Province Expansion I would love to see them and possibly post them above!
+
 If you have any questions, please, do not hesitate to ask. Report any bugs in the bug report discussion below.
 
 Thank you, and enjoy!
