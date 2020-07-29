@@ -1,6 +1,11 @@
+1.4.9:
+
+* Updated for consistency with BT 13.0.12
+
 1.4.8:
 
 * Fixed missing winters in Peedee, Cape Lookout, and Machapunga
+* Fixed highlighting caused by bad default.map provinces
 
 1.4.7:
 
