@@ -1,0 +1,35 @@
+#7350 - Lechewuekink 
+#Area - Delaware Valley
+#Region - Northeast (America)
+
+#Core Details
+capital = "Lechewuekink"
+is_city = yes
+
+#Demographics
+culture = delaware
+religion = totemism
+
+#Development and Trade
+base_tax = 2
+base_production = 1 
+base_manpower = 1
+trade_goods = unknown
+native_size = 15
+native_ferocity = 3
+native_hostileness = 4
+
+#Cores and Occupation (Alphabetical after current)
+#add_core = 
+
+#Other Political
+hre = no
+
+#Fort/Other Buildings
+
+#Special Modifiers
+
+#Discoveries
+discovered_by = north_american
+
+#Histories
