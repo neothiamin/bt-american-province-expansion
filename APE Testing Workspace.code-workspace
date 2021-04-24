@@ -14,7 +14,14 @@
 		},
 		{
 			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\workshop\\content\\236850\\2138490092"
+		},
+		{
+			"path": "..\\..\\..\\Paradox Interactive\\Europa Universalis IV\\mod\\ape_tradenodes_testing"
 		}
 	],
-	"settings": {}
+	"settings": {		
+		"files.associations": {
+			"*txt": "eu4"
+		}
+	}
 }

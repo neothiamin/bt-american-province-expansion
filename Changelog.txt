@@ -1,5 +1,16 @@
 1.5:
 
++ New provinces:
+
+	+ Eastern Pennsylvania - 6 (Tunkahannock, Chenango, Tioga, Tankamochkhanna, Lechewuekink, Chottschinschu'hak'ing)
+
+* Adjusted some province borders, such as Massachusetts (968), Pontoosuck (7323), and others
+
+1.4.10:
+
+* ACTUALLY Fixed missing winters in Peedee, Cape Lookout, and Machapunga
+* Fixed incorrect terrain in terrain.txt
+
 1.4.9:
 
 * Updated for consistency with BT 13.0.12
