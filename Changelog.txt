@@ -3,6 +3,7 @@
 + New provinces:
 
 	+ Eastern Pennsylvania - 6 (Tunkahannock, Chenango, Tioga, Tankamochkhanna, Lechewuekink, Chottschinschu'hak'ing)
+	+ New York - 3 (Onödowá'gaa, Tä'nawunda, Ga'dages'gao)
 
 * Adjusted some province borders, such as Massachusetts (968), Pontoosuck (7323), and others
 
