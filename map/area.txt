@@ -81,7 +81,7 @@ south_china_sea_area = {
 }
 
 celebes_sea_area = { #4
-	1359 1398 1399 1400 4358 
+	1359 1398 1399 1400
 }
 
 java_sea_area = { #3
@@ -113,7 +113,7 @@ coral_sea_area = {
 }
 
 philipine_sea_area = {
-	1396 1397 1402 1403 1436 1437 1390 1404 4357 
+	1396 1397 1402 1403 1436 1437 1390 1404 4357 4358
 }
 
 banda_arafura_seas_area = {
