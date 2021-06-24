@@ -7,7 +7,7 @@ capital = "Tonawanda"
 is_city = no
 
 #Demographics
-culture = iroquois
+culture = huron #Name comes from Tuscarora but the Tuscarora were not part of the Iroquois Confederacy in 1444
 religion = totemism
 
 #Development and Trade

@@ -49,6 +49,7 @@ colonial_alaska = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -191,6 +192,7 @@ colonial_canada = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -407,6 +409,7 @@ colonial_eastern_america = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -595,6 +598,7 @@ colonial_louisiana = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -809,6 +813,7 @@ colonial_california = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -910,6 +915,7 @@ colonial_mexico = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -1061,6 +1067,7 @@ colonial_the_carribean = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -1071,6 +1078,7 @@ colonial_the_carribean = {
 		trigger = {
 			OR = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -1196,6 +1204,7 @@ colonial_colombia = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -1288,6 +1297,7 @@ colonial_peru = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -1422,6 +1432,7 @@ colonial_la_plata = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -1565,6 +1576,7 @@ colonial_brazil = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
@@ -1651,6 +1663,7 @@ colonial_australia = {
 				tag = NED
 				tag = HOL
 				primary_culture = dutch
+				#primary_culture = flemish
 			}
 		}
 		name = "COLONIAL_AUSTRALIA_New_Holland"
@@ -1664,6 +1677,7 @@ colonial_australia = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}

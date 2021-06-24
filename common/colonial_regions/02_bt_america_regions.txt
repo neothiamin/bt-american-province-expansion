@@ -41,6 +41,7 @@ colonial_florida = {
 			culture_group = germanic
 			NOT = {
 				primary_culture = dutch
+				primary_culture = flemish
 				tag = NED
 				tag = HOL
 			}
