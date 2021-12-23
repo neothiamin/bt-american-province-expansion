@@ -606,7 +606,7 @@ province;red;green;blue;x;x
 605;214;90;0;Prei Nokoi;x
 606;86;92;64;Panduranga;x
 607;214;94;128;Vijaya;x
-608;86;96;192;Champassak;x
+608;86;96;192;Attapeu;### replaces BT 8586
 609;215;98;255;Siem Reap;x
 610;87;100;0;Binh Tri Thien;x
 611;215;102;64;Thakhek;x
@@ -635,7 +635,7 @@ province;red;green;blue;x;x
 634;90;148;255;Sumba;x
 635;218;150;0;Timor;x
 636;90;152;64;Brunei;x
-637;219;154;128;Sabah;x
+637;219;154;128;Api-Api;### renamed
 638;91;156;192;Kutei;x
 639;219;158;255;Banjarmasin;x
 640;91;32;0;Sukadane;x
@@ -663,7 +663,7 @@ province;red;green;blue;x;x
 662;94;76;128;Yunnan;x
 663;222;78;192;Wenshan;x
 664;94;80;255;Guangxi;x
-665;223;82;0;XXX;x
+665;223;82;0;Shiuhing;x
 666;95;84;64;Hainan;x
 667;223;86;128;Guangzhou;x
 668;95;88;192;Macau;x
@@ -1104,9 +1104,9 @@ province;red;green;blue;x;x
 1103;166;58;79;Bourbon;x
 1104;38;60;126;Eiriksfjord;x
 1105;166;62;173;Vestbygden;x
-1106;38;164;32;Whangarei;x
+1106;38;164;32;Te Tai Tokerau;### renamed
 1107;167;66;79;Taranaki;x
-1108;39;68;126;Wairoa;x
+1108;39;68;126;Te Moana a Toi;### renamed
 1109;167;70;173;Timaru;x
 1110;39;72;32;Rio de Oro;x
 1111;167;74;79;Arguin;x
@@ -1244,7 +1244,7 @@ province;red;green;blue;x;x
 1243;186;82;79;Samoa;x
 1244;58;84;126;Tahiti;x
 1245;186;86;173;Irian;x
-1246;58;188;32;Aorangi;x
+1246;58;188;32;Ata Whenua;### renamed
 1247;187;90;79;Corsica;x
 1248;59;92;126;Maldives;x
 1249;187;94;173;Yola;x
@@ -4788,158 +4788,158 @@ province;red;green;blue;x;x
 4787;91;178;26;Ribatejo;x
 4788;168;196;4;Plasencia;x
 4789;254;145;124;Segovia;x
-4790;1;230;1;BeyondTypusNewProvinceBuffer471
-4791;1;231;1;BeyondTypusNewProvinceBuffer472
-4792;1;232;1;BeyondTypusNewProvinceBuffer473
-4793;1;233;1;BeyondTypusNewProvinceBuffer474
-4794;1;234;1;BeyondTypusNewProvinceBuffer475
-4795;1;235;1;BeyondTypusNewProvinceBuffer476
-4796;1;236;1;BeyondTypusNewProvinceBuffer477
-4797;1;237;1;BeyondTypusNewProvinceBuffer478
-4798;1;238;1;BeyondTypusNewProvinceBuffer479
-4799;1;239;1;BeyondTypusNewProvinceBuffer480
-4800;1;240;1;BeyondTypusNewProvinceBuffer481
-4801;1;241;1;BeyondTypusNewProvinceBuffer482
-4802;1;242;1;BeyondTypusNewProvinceBuffer483
-4803;1;243;1;BeyondTypusNewProvinceBuffer484
-4804;1;244;1;BeyondTypusNewProvinceBuffer485
-4805;1;245;1;BeyondTypusNewProvinceBuffer486
-4806;1;246;1;BeyondTypusNewProvinceBuffer487
-4807;1;247;1;BeyondTypusNewProvinceBuffer488
-4808;1;248;1;BeyondTypusNewProvinceBuffer489
-4809;1;249;1;BeyondTypusNewProvinceBuffer490
-4810;1;250;1;BeyondTypusNewProvinceBuffer491
-4811;1;251;1;BeyondTypusNewProvinceBuffer492
-4812;1;252;1;BeyondTypusNewProvinceBuffer493
-4813;1;253;1;BeyondTypusNewProvinceBuffer494
-4814;1;254;1;BeyondTypusNewProvinceBuffer495
-4815;1;255;1;BeyondTypusNewProvinceBuffer496
-4816;2;1;1;BeyondTypusNewProvinceBuffer497
-4817;3;1;1;BeyondTypusNewProvinceBuffer498
-4818;4;1;1;BeyondTypusNewProvinceBuffer499
-4819;5;1;1;BeyondTypusNewProvinceBuffer500
-4820;6;1;1;BeyondTypusNewProvinceBuffer501
-4821;7;1;1;BeyondTypusNewProvinceBuffer502
-4822;8;1;1;BeyondTypusNewProvinceBuffer503
-4823;9;1;1;BeyondTypusNewProvinceBuffer504
-4824;10;1;1;BeyondTypusNewProvinceBuffer505
-4825;11;1;1;BeyondTypusNewProvinceBuffer506
-4826;12;1;1;BeyondTypusNewProvinceBuffer507
-4827;13;1;1;BeyondTypusNewProvinceBuffer508
-4828;14;1;1;BeyondTypusNewProvinceBuffer509
-4829;15;1;1;BeyondTypusNewProvinceBuffer510
-4830;16;1;1;BeyondTypusNewProvinceBuffer511
-4831;17;1;1;BeyondTypusNewProvinceBuffer512
-4832;18;1;1;BeyondTypusNewProvinceBuffer513
-4833;19;1;1;BeyondTypusNewProvinceBuffer514
-4834;20;1;1;BeyondTypusNewProvinceBuffer515
-4835;21;1;1;BeyondTypusNewProvinceBuffer516
-4836;22;1;1;BeyondTypusNewProvinceBuffer517
-4837;23;1;1;BeyondTypusNewProvinceBuffer518
-4838;24;1;1;BeyondTypusNewProvinceBuffer519
-4839;26;1;1;BeyondTypusNewProvinceBuffer520
-4840;27;1;1;BeyondTypusNewProvinceBuffer521
-4841;28;1;1;BeyondTypusNewProvinceBuffer522
-4842;29;1;1;BeyondTypusNewProvinceBuffer523
-4843;30;1;1;BeyondTypusNewProvinceBuffer524
-4844;31;1;1;BeyondTypusNewProvinceBuffer525
-4845;32;1;1;BeyondTypusNewProvinceBuffer526
-4846;33;1;1;BeyondTypusNewProvinceBuffer527
-4847;34;1;1;BeyondTypusNewProvinceBuffer528
-4848;35;1;1;BeyondTypusNewProvinceBuffer529
-4849;36;1;1;BeyondTypusNewProvinceBuffer530
-4850;37;1;1;BeyondTypusNewProvinceBuffer531
-4851;38;1;1;BeyondTypusNewProvinceBuffer532
-4852;39;1;1;BeyondTypusNewProvinceBuffer533
-4853;40;1;1;BeyondTypusNewProvinceBuffer534
-4854;41;1;1;BeyondTypusNewProvinceBuffer535
-4855;42;1;1;BeyondTypusNewProvinceBuffer536
-4856;43;1;1;BeyondTypusNewProvinceBuffer537
-4857;44;1;1;BeyondTypusNewProvinceBuffer538
-4858;45;1;1;BeyondTypusNewProvinceBuffer539
-4859;46;1;1;BeyondTypusNewProvinceBuffer540
-4860;47;1;1;BeyondTypusNewProvinceBuffer541
-4861;48;1;1;BeyondTypusNewProvinceBuffer542
-4862;49;1;1;BeyondTypusNewProvinceBuffer543
-4863;50;1;1;BeyondTypusNewProvinceBuffer544
-4864;51;1;1;BeyondTypusNewProvinceBuffer545
-4865;52;1;1;BeyondTypusNewProvinceBuffer546
-4866;53;1;1;BeyondTypusNewProvinceBuffer547
-4867;54;1;1;BeyondTypusNewProvinceBuffer548
-4868;55;1;1;BeyondTypusNewProvinceBuffer549
-4869;56;1;1;BeyondTypusNewProvinceBuffer550
-4870;57;1;1;BeyondTypusNewProvinceBuffer551
-4871;58;1;1;BeyondTypusNewProvinceBuffer552
-4872;59;1;1;BeyondTypusNewProvinceBuffer553
-4873;60;1;1;BeyondTypusNewProvinceBuffer554
-4874;61;1;1;BeyondTypusNewProvinceBuffer555
-4875;62;1;1;BeyondTypusNewProvinceBuffer556
-4876;63;1;1;BeyondTypusNewProvinceBuffer557
-4877;64;1;1;BeyondTypusNewProvinceBuffer558
-4878;65;1;1;BeyondTypusNewProvinceBuffer559
-4879;66;1;1;BeyondTypusNewProvinceBuffer560
-4880;67;1;1;BeyondTypusNewProvinceBuffer561
-4881;68;1;1;BeyondTypusNewProvinceBuffer562
-4882;69;1;1;BeyondTypusNewProvinceBuffer563
-4883;70;1;1;BeyondTypusNewProvinceBuffer564
-4884;71;1;1;BeyondTypusNewProvinceBuffer565
-4885;72;1;1;BeyondTypusNewProvinceBuffer566
-4886;73;1;1;BeyondTypusNewProvinceBuffer567
-4887;74;1;1;BeyondTypusNewProvinceBuffer568
-4888;75;1;1;BeyondTypusNewProvinceBuffer569
-4889;76;1;1;BeyondTypusNewProvinceBuffer580
-4890;77;1;1;BeyondTypusNewProvinceBuffer571
-4891;78;1;1;BeyondTypusNewProvinceBuffer572
-4892;79;1;1;BeyondTypusNewProvinceBuffer573
-4893;80;1;1;BeyondTypusNewProvinceBuffer574
-4894;81;1;1;BeyondTypusNewProvinceBuffer575
-4895;82;1;1;BeyondTypusNewProvinceBuffer576
-4896;83;1;1;BeyondTypusNewProvinceBuffer577
-4897;84;1;1;BeyondTypusNewProvinceBuffer578
-4898;85;1;1;BeyondTypusNewProvinceBuffer579
-4899;86;1;1;BeyondTypusNewProvinceBuffer580
-4900;87;1;1;BeyondTypusNewProvinceBuffer581
-4901;88;1;1;BeyondTypusNewProvinceBuffer582
-4902;89;1;1;BeyondTypusNewProvinceBuffer583
-4903;90;1;1;BeyondTypusNewProvinceBuffer584
-4904;91;1;1;BeyondTypusNewProvinceBuffer585
-4905;92;1;1;BeyondTypusNewProvinceBuffer586
-4906;93;1;1;BeyondTypusNewProvinceBuffer587
-4907;94;1;1;BeyondTypusNewProvinceBuffer588
-4908;95;1;1;BeyondTypusNewProvinceBuffer599
-4909;96;1;1;BeyondTypusNewProvinceBuffer590
-4910;97;1;1;BeyondTypusNewProvinceBuffer591
-4911;98;1;1;BeyondTypusNewProvinceBuffer592
-4912;99;1;1;BeyondTypusNewProvinceBuffer593
-4913;100;1;1;BeyondTypusNewProvinceBuffer594
-4914;101;1;1;BeyondTypusNewProvinceBuffer595
-4915;102;1;1;BeyondTypusNewProvinceBuffer596
-4916;103;1;1;BeyondTypusNewProvinceBuffer597
-4917;104;1;1;BeyondTypusNewProvinceBuffer598
-4918;105;1;1;BeyondTypusNewProvinceBuffer599
-4919;106;1;1;BeyondTypusNewProvinceBuffer600
-4920;100;200;25;Aleut
-4921;100;200;100;Naugeik
-4922;100;200;175;Curyuk
-4923;100;200;250;Mamterilleq
-4924;100;200;50;Unalaqliq
-4925;100;200;125;Chinik
-4926;100;200;200;Kena
-4927;100;200;75;Suacit
-4928;100;200;150;Koyukuk
-4929;100;200;225;Nuchalawoyyet
-4930;200;100;25;Allakaket
-4931;200;100;100;Chena
-4932;200;100;175;Denyeet
-4933;200;100;250;Gwichin
-4934;200;100;50;Han Hwechin
-4935;200;100;125;Teelay
-4936;200;100;200;Ahtna
-4937;200;100;75;Trochek Hwechin
-4938;200;100;150;Dan
-4939;200;100;225;Waskasoo Seepee
-4940;100;200;24;Snuneymuxw
-4941;100;200;99;Xaislakala
+4790;170;98;56;Pangguyanan;### replaces BT 8622
+4791;50;43;20;Cirebon;### replaces BT 8719
+4792;153;169;173;Kendal;### replaces BT 8620
+4793;237;108;140;South Demak;### replaces BT 8621
+4794;148;48;116;East Kediri;### replaces BT 8718
+4795;221;84;31;Bone;### replaces BT 8611
+4796;237;99;81;Kendari;### replaces BT 8705
+4797;228;249;251;Soppeng;### replaces BT 8613
+4798;4;235;103;Wajo;### replaces BT 8612
+4799;15;154;146;Sambaliung;### replaces BT 8626
+4800;132;11;182;Paser;### replaces BT 8563
+4801;183;228;84;Batulican;### replaces BT 8564
+4802;79;254;101;South Pontiniak;### replaces BT 8557
+4803;248;45;0;North Katapang;### replaces BT 8558
+4804;148;41;14;West Kuching;### replaces BT 8560
+4805;238;141;151;East Sibu;### replaces BT 8701
+4806;228;15;86;Inland Sarawak;### replaces BT 8562
+4807;185;69;211;North Borneo;### replaces BT 8550 WASTELAND
+4808;230;213;205;Sumatra;### replaces BT 8687
+4809;58;125;63;South Peureulak;### replaces BT 8605
+4810;251;189;80;South Deli;### replaces BT 8601
+4811;78;19;109;Barus;### replaces BT 8607
+4812;115;67;188;Gerik;### replaces BT 8579
+4813;193;124;50;Penang;### replaces BT 8671
+4814;204;29;35;Semantan;### replaces BT 8595
+4815;150;40;142;Singapura;### replaces BT 8649
+4816;81;176;19;Rengat;### fixed
+4817;136;32;11;Padang;### replaces BT 8696
+4818;158;68;193;Indrapura;### replaces BT 8690
+4819;238;111;151;Son Nam;### replaces BT 8659
+4820;179;39;82;Minh Quang;### replaces BT 8657
+4821;118;178;134;Nghe An;### replaces BT 8594
+4822;240;117;163;Amaravati;### replaces BT 8628
+4823;74;237;125;Jarai;### replaces BT 2375
+4824;182;255;0;Rhade;### replaces BT 8596
+4825;139;124;98;Pursat;### replaces BT 8591
+4826;134;235;115;Kampot;### replaces BT 8583
+4827;63;194;255;Kampom Pous Thom;### replaces BT 8590
+4828;182;1;4;Preah Vihear;### replaces BT 8589
+4829;235;170;132;Raung Dapey;### replaces BT 8655
+4830;72;209;160;Rayong;### replaces BT 8637
+4831;207;79;128;Bangkok;### replaces BT 8556
+4832;245;59;108;Lopburi;### replaces BT 8567
+4833;182;244;187;Phetchabun;### replaces BT 8566
+4834;52;21;131;Suphanburi;### replaces BT 8568
+4835;73;71;64;Kanchanaburi;### replaces BT 8638
+4836;118;104;40;Si Thep;### replaces BT 8582
+4837;61;16;160;Muang Ngoi;### replaces BT 8617
+4838;239;13;190;Sip Et;### replaces BT 8729
+4839;128;190;153;Champasak;### replaces BT 608
+4840;174;140;171;Salavan;### replaces BT 8588
+4841;186;15;122;Lamphun;### replaces BT 8575
+4842;100;174;128;Lakhon;### replaces BT 8574
+4843;130;228;241;Annamite Mountains;### replaces BT 8570
+4844;37;164;140;Dawna Hills;### replaces BT 8599 NOT WASTELAND
+4845;90;235;85;Mamuju;### replaces BT 8706
+4846;229;139;97;Woolna;### new in 1.31
+4847;162;71;29;Yunawa;### new in 1.31
+4848;29;162;89;Mingin;### new in 1.31
+4849;64;217;133;Kurtjar;### new in 1.31
+4850;174;141;221;Biri;### new in 1.31
+4851;97;115;229;Gureng;### new in 1.31
+4852;55;67;139;WuliWuli;### new in 1.31
+4853;88;95;140;Bidjara;### new in 1.31
+4854;73;93;221;Badtjala;### new in 1.31
+4855;62;74;151;Yiman;### new in 1.31
+4856;74;74;198;Barunggam;### new in 1.31
+4857;88;140;91;Bundjalung;### new in 1.31
+4858;137;231;142;Tharawal;### new in 1.31
+4859;44;179;51;Gundungurra;### new in 1.31
+4860;24;116;29;Dharug;### new in 1.31
+4861;117;158;119;Waveroo;### new in 1.31
+4862;9;63;12;Ngadjuri;### new in 1.31
+4863;179;87;31;Nyaki;### new in 1.31
+4864;218;177;152;Yuat;### new in 1.31
+4865;218;196;123;Kurrama;### new in 1.31
+4866;156;144;105;Mangala;### new in 1.31
+4867;227;196;94;Wunambul;### new in 1.31
+4868;136;85;174;Pyemmairrener;### new in 1.31
+4869;56;20;83;Peerapper;### new in 1.31
+4870;40;100;119;Australian Lakes;### new in 1.31
+4871;1;70;150;Cowasuk;### new in 1.31
+4872;11;80;175;Wenrohronon;### new in 1.31
+4873;21;90;200;Pegwaki;### new in 1.31
+4874;31;100;225;Westenhuck;### new in 1.31
+4875;41;110;150;Minqua;### new in 1.31
+4876;51;70;175;Scahentowanen;### new in 1.31
+4877;61;80;200;Nottoway;### new in 1.31
+4878;71;90;225;Eno;### new in 1.31
+4879;81;100;150;Kituwah;### new in 1.31
+4880;91;110;175;Combahee;### new in 1.31
+4881;101;70;200;Sawokli;### new in 1.31
+4882;111;80;225;Etali;### new in 1.31
+4883;121;90;150;Napochi;### new in 1.31
+4884;141;110;200;Houma;### new in 1.31
+4885;151;70;225;Avoyel;### new in 1.31
+4886;161;80;150;Nasoni;### new in 1.31
+4887;241;100;225;Cochati;### new in 1.31
+4888;2;110;150;Tatteroa;### new in 1.31
+4889;12;70;175;Mohetan;### new in 1.31
+4890;22;80;200;UNUSED;### conflict with BT 992
+4891;32;90;225;Piktuk;### replaces BT 5047
+4892;42;100;150;UNUSED;### conflict with BT 2585
+4893;52;110;175;UNUSED;### conflict with BT 2583
+4894;200;100;194;Ottagotouemin;### replaces BT 5056
+4895;72;80;225;Batiscan;### new in 1.31
+4896;82;90;150;Meductic;### replaces BT 5046
+4897;92;100;175;Keinouche;### new in 1.31
+4898;102;110;200;Gichigamininiwag;### new in 1.31
+4899;112;70;225;Mamaceqtaw;### new in 1.31
+4900;122;80;150;Otoe;### replaces BT 5628
+4901;132;90;175;Saone;### replaces BT 5626
+4902;142;100;200;Makandwewin;### replaces BT 5622
+4903;152;110;225;Chinko;### new in 1.31
+4904;171;90;175;Espeminkia;### new in 1.31
+4905;181;100;200;Tapouaro;### new in 1.31
+4906;191;110;225;Coiracoentanon;### new in 1.31
+4907;201;70;150;Mosopelea;### new in 1.31
+4908;221;80;175;Tawehash;### new in 1.31
+4909;231;90;200;Kitsash;### new in 1.31
+4910;162;70;150;Tawakoni;### new in 1.31
+4911;172;80;175;Nabaydacu;### new in 1.31
+4912;182;70;150;Ahkwesahsne;### new in 1.31
+4913;192;80;175;Aniyutsi;### new in 1.31
+4914;202;90;200;Neosho;### new in 1.31
+4915;212;100;225;Pitahawirata;### new in 1.31
+4916;222;110;150;Ponca;### replaces BT 5620
+4917;232;70;175;Selis;### replaces BT 5631
+4918;242;80;200;Huhkpapha;### replaces BT 5615
+4919;3;90;225;Sihabi;### replaces BT 5624
+4920;13;100;150;UNUSED;### conflict with BT 2596
+4921;131;100;175;Kuttawa;### new in 1.31
+4922;23;110;175;Pepikokia;### new in 1.31
+4923;45;70;200;Pacaha;### new in 1.31
+4924;200;10;1;Laurentian Massif;### new in 1.31
+4925;200;40;41;White Mountains;### new in 1.31
+4926;200;70;81;Adirondacks;### new in 1.31
+4927;200;100;121;Blue Mountains;### new in 1.31
+4928;200;20;161;Allegheny Front;### new in 1.31
+4929;200;50;11;Appalachian Ridges;### new in 1.31
+4930;200;80;51;Alleghenies;### new in 1.31
+4931;200;30;91;Cumberland Mountains;### new in 1.31
+4932;200;60;131;Smoky Mountains;### new in 1.31
+4933;200;90;171;Blue Ridge;### new in 1.31
+4934;210;10;1;Maui;### replaces BT 5817
+4935;210;40;41;Oahu;### replaces BT 5029
+4936;210;70;81;Kauai;### replaces BT 5818
+4937;210;20;121;Lau;### new in 1.31
+4938;210;50;161;Vanua Levu;### new in 1.31
+4939;210;80;11;Te Moana-a-Toi;### new in 1.31
+4940;29;216;197;Lake Tulare;### replaces BT 5100
+4941;30;216;201;Lake Cahuilla;### replaces BT 5488
 4942;100;200;174;Nehalem
 4943;100;200;249;Omineca
 4944;100;200;49;Netsha Koh
@@ -5013,7 +5013,7 @@ province;red;green;blue;x;x
 5012;200;100;171;Makatinau
 5013;200;100;246;Avalon
 5014;200;100;46;Kawawachikamach
-5015;200;100;121;Nitassinan
+5015;200;121;121;Nitassinan
 5016;200;100;196;Kuyuidika
 5017;200;100;71;Natakkoa
 5018;200;100;146;Tongva
@@ -5918,28 +5918,28 @@ province;red;green;blue;x;x
 5917;199;199;109;Negeqliq
 5918;199;199;184;Iqugmiut
 5919;199;199;59;Nunam Iqua
-5920;2;2;1;BeyondTypusSecondBuffer1
-5921;2;2;2;BeyondTypusSecondBuffer2
-5922;2;2;3;BeyondTypusSecondBuffer3
-5923;2;2;4;BeyondTypusSecondBuffer4
-5924;2;2;5;BeyondTypusSecondBuffer5
-5925;2;2;6;BeyondTypusSecondBuffer6
-5926;2;2;7;BeyondTypusSecondBuffer7
-5927;2;2;8;BeyondTypusSecondBuffer8
-5928;2;2;9;BeyondTypusSecondBuffer9
-5929;2;2;10;BeyondTypusSecondBuffer10
-5930;8;4;4;BeyondTypusSecondBuffer11
-5931;2;2;11;BeyondTypusSecondBuffer12
-5932;2;2;12;BeyondTypusSecondBuffer13
-5933;2;2;13;BeyondTypusSecondBuffer14
-5934;2;2;14;BeyondTypusSecondBuffer15
-5935;2;2;15;BeyondTypusSecondBuffer16
-5936;2;2;16;BeyondTypusSecondBuffer17
-5937;2;2;17;BeyondTypusSecondBuffer18
-5938;2;2;18;BeyondTypusSecondBuffer19
-5939;2;2;19;BeyondTypusSecondBuffer20
-5940;2;2;20;BeyondTypusSecondBuffer21
-5941;2;2;21;BeyondTypusSecondBuffer22
+5920;100;200;25;Aleut;### renumbered from 4920
+5921;100;200;100;Naugeik;### renumbered from 4921
+5922;100;200;175;Curyuk;### renumbered from 4922
+5923;100;200;250;Mamterilleq;### renumbered from 4923
+5924;100;200;50;Unalaqliq;### renumbered from 4924
+5925;100;200;125;Chinik;### renumbered from 4925
+5926;100;200;200;Kena;### renumbered from 4926
+5927;100;200;75;Suacit;### renumbered from 4927
+5928;100;200;150;Koyukuk;### renumbered from 4928
+5929;100;200;225;Nuchalawoyyet;### renumbered from 4929
+5930;200;100;25;Allakaket;### renumbered from 4930
+5931;200;100;100;Chena;### renumbered from 4931
+5932;200;100;175;Denyeet;### renumbered from 4932
+5933;200;100;250;Gwichin;### renumbered from 4933
+5934;200;100;50;Han Hwechin;### renumbered from 4934
+5935;200;100;125;Teelay;### renumbered from 4935
+5936;200;100;200;Ahtna;### renumbered from 4936
+5937;200;100;75;Trochek Hwechin;### renumbered from 4937
+5938;200;100;150;Dan;### renumbered from 4938
+5939;200;100;225;Waskasoo Seepee;### renumbered from 4939
+5940;100;200;24;Snuneymuxw;### renumbered from 4940
+5941;100;200;99;Xaislakala;### renumbered from 4941
 5942;2;2;22;BeyondTypusSecondBuffer23
 5943;2;2;23;BeyondTypusSecondBuffer24
 5944;2;2;24;BeyondTypusSecondBuffer25
@@ -7290,8 +7290,8 @@ province;red;green;blue;x;x
 7289;88;204;88;Ogeechee;x
 7290;88;166;88;Ocmulgee;x
 7291;137;88;88;Tugaloo;x
-7292;50;214;50;Flint;x
-7293;234;25;25;Combahee;x
+7292;50;214;50;Flint;xREPLACED BY 4881
+7293;234;25;25;Combahee;xREPLACED BY 4880
 7294;87;220;87;White Oak;x
 7295;220;88;88;Cape Lookout;x
 7296;88;205;88;Peedee;x
@@ -7317,11 +7317,11 @@ province;red;green;blue;x;x
 7316;149;169;169;Hatchee;x
 7317;206;85;85;Pocomoke;x
 7318;30;193;30;Rappahannock;x
-7319;31;168;168;Nottoway;x
+7319;31;168;168;Nottoway;x###REPLACED by 4877
 7320;168;124;168;Mohegan;x
 7321;85;217;85;Unkechaug;x
 7322;250;168;168;Occaneechi;x
-7323;85;250;85;Pontoosuck;x
+7323;85;250;85;Pontoosuck;x###REPLACED by 4874 - Westenhuck
 7324;169;113;169;Patapsco;x
 7325;30;160;30;Naugatuck;x
 7326;85;85;241;Willimantic;x
@@ -7338,7 +7338,7 @@ province;red;green;blue;x;x
 7337;4;4;133;Emet;x
 7338;4;4;134;Arkansaw Ozarks;x
 7339;4;4;135;Crowleys Ridge;x
-7340;4;4;136;Nasoni;x
+7340;4;4;136;Nasoni;xREPLACED BY 4886
 7341;4;4;137;Chisos;x
 7342;4;4;138;Manso;x
 7343;4;4;139;Limpia;x
@@ -7355,7 +7355,7 @@ province;red;green;blue;x;x
 7354;4;4;150;Lechewuekink;x
 7355;4;4;151;Chottschinschu'hak'ing;x
 7356;4;4;152;Onödowá'gaa;x
-7357;4;4;153;Tonawanda;x
+7357;4;4;153;Tonawanda;x###REPLACED BY 4872 - Wenrohronon
 7358;4;4;154;Cattaraugus;x
 7359;4;4;155;IDReservedForOtherBTBasedProjects420
 7360;4;4;156;IDReservedForOtherBTBasedProjects421

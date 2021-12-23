@@ -1,0 +1,17 @@
+vanilla provinces updated:
+4871
+4872
+4873
+4874 - replaced old 7323
+4875
+4876
+4877 - replaced old 7319
+4878
+4879
+4880 - replaced old 7293
+4881 - replaced old 7292
+4882
+4883
+4884 - replaces old 7311
+4885
+4886 - replaces old 7340

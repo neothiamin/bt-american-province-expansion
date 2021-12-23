@@ -4,27 +4,22 @@
 			"path": "."
 		},
 		{
-			"path": "..\\..\\..\\Paradox Interactive\\Europa Universalis IV\\mod\\ape_names"
-		},
-		{
-			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\workshop\\content\\236850\\1931341549"
-		},
-		{
 			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\common\\Europa Universalis IV"
-		},
-		{
-			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\workshop\\content\\236850\\2138490092"
 		},
 		{
 			"path": "..\\..\\..\\Paradox Interactive\\Europa Universalis IV\\mod\\ape_tradenodes_testing"
 		},
 		{
 			"path": "..\\..\\..\\Paradox Interactive\\Europa Universalis IV\\mod\\ape_terrain_colors"
+		},
+		{
+			"path": "..\\..\\..\\..\\Games\\Steam Library\\steamapps\\workshop\\content\\236850\\2656711777"
 		}
 	],
 	"settings": {		
 		"files.associations": {
 			"*txt": "eu4"
-		}
+		},
+		"workbench.colorTheme": "Material Theme Darker"
 	}
 }
