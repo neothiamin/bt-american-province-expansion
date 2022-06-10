@@ -2,16 +2,98 @@ vanilla provinces updated:
 4871
 4872
 4873
-4874 - replaced old 7323
+4874 - replaces old 7323
 4875
 4876
-4877 - replaced old 7319
+4877 - replaces old 7319
 4878
 4879
-4880 - replaced old 7293
-4881 - replaced old 7292
+4880 - replaces old 7293
+4881 - replaces old 7292
 4882
 4883
 4884 - replaces old 7311
 4885
 4886 - replaces old 7340
+4887
+4888
+4889
+4890 UNUSED
+4891 - replaces old 5047
+4892 UNUSED
+4893 UNUSED
+4894 - replaces old 5056
+4895
+4896 - replaces old 5046
+4897
+4898
+4899
+4900 - replaces old 5628
+4901 - replaces old 5626
+4902 - replaces old 5622
+4903
+4904
+4905
+4906
+4907
+4908
+4909
+4910
+4911
+4912
+4913
+4914
+4915
+4916 - replaces old 5620
+4917 - replaces old 5631
+4918 - replaces old 5615
+4919 - replaces old 5624
+4920 UNUSED
+4921
+4922
+4923 - replaces old 7339
+4924
+4925
+4926
+4927
+4928
+4929
+4930
+4931
+4932
+4933
+
+
+6046
+6047
+6048
+6049
+6050
+6051
+6052
+6053
+6054
+6055
+6056
+6057
+6058
+6059
+6060
+6061
+
+Removed Provinces:
+7292
+7293
+7304
+7308
+7311
+7314
+7319
+7323
+7339
+7340
+
+adjacencies
+
+965;7321;sea;1500;-1;-1;-1;-1;Manhattan-Unkechaug
+2010;7320;sea;1500;-1;-1;-1;-1;Connecticut-Mohegan

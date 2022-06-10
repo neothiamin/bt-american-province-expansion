@@ -1,16 +1,16 @@
 #8744 - Thronateeska
 #Creek world for "flint," after the common occurrence of flint in the area. Today called the "Red Hills," though the Red Hills region extends into Florida.
 
-culture = creek
-religion = totemism
-capital = "Red Hills"
-trade_goods = unknown
-hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
-
-discovered_by = north_american
+#culture = creek
+#religion = totemism
+#capital = "Red Hills"
+#trade_goods = unknown
+#hre = no
+#base_tax = 1 
+#base_production = 1
+#base_manpower = 1
+#native_size = 5
+#native_ferocity = 1
+#native_hostileness = 2
+#
+#discovered_by = north_american

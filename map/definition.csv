@@ -2373,7 +2373,7 @@ province;red;green;blue;x;x
 2372;0;38;255;Hai Phong;x
 2373;137;76;72;Hue;x
 2374;53;204;105;Kauthara;x
-2375;182;255;0;Tay Nguyen;x
+2375;244;127;25;Tay Nguyen;### replaces BT 8629
 2376;225;191;0;Prek Russey;x
 2377;82;199;61;Teuk Khmao;x
 2378;255;0;110;Kratie;x
@@ -5054,7 +5054,7 @@ province;red;green;blue;x;x
 5053;200;100;244;Kamouraska
 5054;200;100;44;Gespeg
 5055;200;100;119;Piletipistu Neshkau
-5056;200;100;194;Kichesipirini
+5056;62;70;200;UNUSED;### replaced by 4894
 5057;200;100;69;Nanikana
 5058;200;100;144;Avalon II
 5059;200;100;219;Avalon III
@@ -5999,155 +5999,155 @@ province;red;green;blue;x;x
 5998;2;2;87;BeyondTypusSecondBuffer79
 5999;2;2;88;BeyondTypusSecondBuffer80
 6000;2;2;89;BeyondTypusSecondBuffer81
-6001;2;2;90;BeyondTypusSecondBuffer82
-6002;2;2;91;BeyondTypusSecondBuffer83
-6003;2;2;92;BeyondTypusSecondBuffer84
-6004;2;2;93;BeyondTypusSecondBuffer85
-6005;2;2;94;BeyondTypusSecondBuffer86
-6006;2;2;95;BeyondTypusSecondBuffer87
-6007;2;2;96;BeyondTypusSecondBuffer88
-6008;2;2;97;BeyondTypusSecondBuffer89
-6009;2;2;98;BeyondTypusSecondBuffer90
-6010;2;2;99;BeyondTypusSecondBuffer91
-6011;2;2;100;BeyondTypusSecondBuffer92
-6012;2;2;101;BeyondTypusSecondBuffer93
-6013;2;2;102;BeyondTypusSecondBuffer94
-6014;2;2;103;BeyondTypusSecondBuffer95
-6015;2;2;104;BeyondTypusSecondBuffer96
-6016;2;2;105;BeyondTypusSecondBuffer97
-6017;2;2;106;BeyondTypusSecondBuffer98
-6018;2;2;107;BeyondTypusSecondBuffer99
-6019;2;2;108;BeyondTypusSecondBuffer100
-6020;2;2;109;BeyondTypusSecondBuffer101
-6021;2;2;110;BeyondTypusSecondBuffer102
-6022;2;2;111;BeyondTypusSecondBuffer103
-6023;2;2;112;BeyondTypusSecondBuffer104
-6024;2;2;113;BeyondTypusSecondBuffer105
-6025;2;2;114;BeyondTypusSecondBuffer106
-6026;2;2;115;BeyondTypusSecondBuffer107
-6027;2;2;116;BeyondTypusSecondBuffer108
-6028;2;2;117;BeyondTypusSecondBuffer109
-6029;2;2;118;BeyondTypusSecondBuffer110
-6030;2;2;119;BeyondTypusSecondBuffer111
-6031;2;2;120;BeyondTypusSecondBuffer112
-6032;2;2;121;BeyondTypusSecondBuffer113
-6033;2;2;122;BeyondTypusSecondBuffer114
-6034;2;2;123;BeyondTypusSecondBuffer115
-6035;2;2;124;BeyondTypusSecondBuffer116
-6036;2;2;125;BeyondTypusSecondBuffer117
-6037;2;2;126;BeyondTypusSecondBuffer118
-6038;2;2;127;BeyondTypusSecondBuffer119
-6039;2;2;128;BeyondTypusSecondBuffer120
-6040;2;2;129;BeyondTypusSecondBuffer121
-6041;2;2;130;BeyondTypusSecondBuffer122
-6042;2;2;131;BeyondTypusSecondBuffer123
-6043;2;2;132;BeyondTypusSecondBuffer124
-6044;2;2;133;BeyondTypusSecondBuffer125
-6045;2;2;134;BeyondTypusSecondBuffer126
-6046;2;2;135;BeyondTypusSecondBuffer127
-6047;2;2;136;BeyondTypusSecondBuffer128
-6048;2;2;137;BeyondTypusSecondBuffer129
-6049;2;2;138;BeyondTypusSecondBuffer130
-6050;2;2;139;BeyondTypusSecondBuffer131
-6051;2;2;140;BeyondTypusSecondBuffer132
-6052;2;2;141;BeyondTypusSecondBuffer133
-6053;2;2;142;BeyondTypusSecondBuffer134
-6054;2;2;143;BeyondTypusSecondBuffer135
-6055;2;2;144;BeyondTypusSecondBuffer136
-6056;2;2;145;BeyondTypusSecondBuffer137
-6057;2;2;146;BeyondTypusSecondBuffer138
-6058;2;2;147;BeyondTypusSecondBuffer139
-6059;2;2;148;BeyondTypusSecondBuffer140
-6060;2;2;149;BeyondTypusSecondBuffer141
-6061;2;2;150;BeyondTypusSecondBuffer142
-6062;2;2;151;BeyondTypusSecondBuffer143
-6063;2;2;152;BeyondTypusSecondBuffer144
-6064;2;2;153;BeyondTypusSecondBuffer145
-6065;2;2;154;BeyondTypusSecondBuffer146
-6066;2;2;155;BeyondTypusSecondBuffer147
-6067;2;2;156;BeyondTypusSecondBuffer148
-6068;2;2;157;BeyondTypusSecondBuffer149
-6069;2;2;158;BeyondTypusSecondBuffer150
-6070;2;2;159;BeyondTypusSecondBuffer151
-6071;2;2;160;BeyondTypusSecondBuffer152
-6072;2;2;161;BeyondTypusSecondBuffer153
-6073;2;2;162;BeyondTypusSecondBuffer154
-6074;2;2;163;BeyondTypusSecondBuffer155
-6075;2;2;164;BeyondTypusSecondBuffer156
-6076;2;2;165;BeyondTypusSecondBuffer157
-6077;2;2;166;BeyondTypusSecondBuffer158
-6078;2;2;167;BeyondTypusSecondBuffer159
-6079;2;2;168;BeyondTypusSecondBuffer160
-6080;2;2;169;BeyondTypusSecondBuffer161
-6081;2;2;170;BeyondTypusSecondBuffer162
-6082;2;2;171;BeyondTypusSecondBuffer163
-6083;2;2;172;BeyondTypusSecondBuffer164
-6084;2;2;173;BeyondTypusSecondBuffer165
-6085;2;2;174;BeyondTypusSecondBuffer166
-6086;2;2;175;BeyondTypusSecondBuffer167
-6087;2;2;176;BeyondTypusSecondBuffer168
-6088;2;2;177;BeyondTypusSecondBuffer169
-6089;2;2;178;BeyondTypusSecondBuffer170
-6090;2;2;179;BeyondTypusSecondBuffer171
-6091;2;2;180;BeyondTypusSecondBuffer172
-6092;2;2;181;BeyondTypusSecondBuffer173
-6093;2;2;182;BeyondTypusSecondBuffer174
-6094;2;2;183;BeyondTypusSecondBuffer175
-6095;2;2;184;BeyondTypusSecondBuffer176
-6096;2;2;185;BeyondTypusSecondBuffer177
-6097;2;2;186;BeyondTypusSecondBuffer178
-6098;2;2;187;BeyondTypusSecondBuffer179
-6099;2;2;188;BeyondTypusSecondBuffer180
-6100;2;2;189;BeyondTypusSecondBuffer181
-6101;2;2;190;BeyondTypusSecondBuffer182
-6102;2;2;191;BeyondTypusSecondBuffer183
-6103;2;2;192;BeyondTypusSecondBuffer184
-6104;2;2;193;BeyondTypusSecondBuffer185
-6105;2;2;194;BeyondTypusSecondBuffer186
-6106;2;2;195;BeyondTypusSecondBuffer187
-6107;2;2;196;BeyondTypusSecondBuffer188
-6108;2;2;197;BeyondTypusSecondBuffer189
-6109;2;2;198;BeyondTypusSecondBuffer190
-6110;2;2;199;BeyondTypusSecondBuffer191
-6111;2;2;200;BeyondTypusSecondBuffer192
-6112;2;2;201;BeyondTypusSecondBuffer193
-6113;2;2;202;BeyondTypusSecondBuffer194
-6114;2;2;203;BeyondTypusSecondBuffer195
-6115;2;2;204;BeyondTypusSecondBuffer196
-6116;2;2;205;BeyondTypusSecondBuffer197
-6117;2;2;206;BeyondTypusSecondBuffer198
-6118;2;2;207;BeyondTypusSecondBuffer199
-6119;2;2;208;BeyondTypusSecondBuffer200
-6120;2;2;209;BeyondTypusSecondBuffer201
-6121;2;2;210;BeyondTypusSecondBuffer202
-6122;2;2;211;BeyondTypusSecondBuffer203
-6123;2;2;212;BeyondTypusSecondBuffer204
-6124;2;2;213;BeyondTypusSecondBuffer205
-6125;2;2;214;BeyondTypusSecondBuffer206
-6126;2;2;215;BeyondTypusSecondBuffer207
-6127;2;2;216;BeyondTypusSecondBuffer208
-6128;2;2;217;BeyondTypusSecondBuffer209
-6229;2;2;218;BeyondTypusSecondBuffer210
-6130;2;2;219;BeyondTypusSecondBuffer211
-6131;2;2;220;BeyondTypusSecondBuffer212
-6132;2;2;221;BeyondTypusSecondBuffer213
-6133;2;2;222;BeyondTypusSecondBuffer214
-6134;2;2;223;BeyondTypusSecondBuffer215
-6135;2;2;224;BeyondTypusSecondBuffer216
-6136;2;2;225;BeyondTypusSecondBuffer217
-6137;2;2;226;BeyondTypusSecondBuffer218
-6138;2;2;227;BeyondTypusSecondBuffer219
-6139;2;2;228;BeyondTypusSecondBuffer220
-6140;2;2;229;BeyondTypusSecondBuffer221
-6141;2;2;230;BeyondTypusSecondBuffer222
-6142;2;2;231;BeyondTypusSecondBuffer223
-6143;2;2;232;BeyondTypusSecondBuffer224
-6144;2;2;233;BeyondTypusSecondBuffer225
-6145;2;2;234;BeyondTypusSecondBuffer226
-6146;2;2;235;BeyondTypusSecondBuffer227
-6147;2;2;236;BeyondTypusSecondBuffer228
-6148;2;2;237;BeyondTypusSecondBuffer229
-6149;2;2;238;BeyondTypusSecondBuffer230
+6001;178;44;9;Sogut;x
+6002;254;97;167;Bilecik;x
+6003;67;89;197;Bigadic;x
+6004;227;98;46;Bergama;x
+6005;108;194;154;Phocaea;x
+6006;170;74;48;Cesme;x
+6007;121;21;32;Ayasoluk;x
+6008;223;127;190;Birgi;x
+6009;68;107;218;Marmaris;x
+6010;18;62;82;Tavas;x
+6011;111;55;72;Emet;x
+6012;231;186;195;Golhisar;x
+6013;252;245;162;Kas;x
+6014;26;246;168;Isparta;x
+6015;98;61;222;Burdur;x
+6016;63;172;207;Bendergli;x
+6017;23;88;152;Beypazari;x
+6018;144;238;36;Hergenkale;x
+6019;136;42;17;Akshehir;x
+6020;66;206;96;Beyshehir;x
+6021;12;208;52;Ermenek;x
+6022;200;103;166;Silifke;x
+6023;250;202;233;Mut;x
+6024;46;48;168;Eregli;x
+6025;89;155;97;Tarsus;x
+6026;95;21;245;Ifteryum;x
+6027;216;11;188;Geduk;x
+6028;251;3;42;Darende;x
+6029;72;159;139;Elbistan;x
+6030;252;112;178;Hisnmansur;x
+6031;125;169;215;Kalecik;x
+6032;145;69;254;Bartin;x
+6033;238;247;177;Inebolu;x
+6034;186;235;13;Merzifon;x
+6035;57;124;56;Bafra;x
+6036;13;194;211;Ladik;x
+6037;30;15;72;Tokat;x
+6038;110;46;104;Hamidiye;x
+6039;25;78;118;Unye;x
+6040;157;141;20;Karahisar;x
+6041;230;37;159;Akhisar;x
+6042;226;225;187;LakeTatta;x
+6043;193;151;240;EastAnatolianLakes;x
+6044;9;99;126;LakeNeuchatel;###
+6045;225;240;41;LakeNeusiedl;###
+6046;82;3;231;Bonaire;###
+6047;188;39;241;Grenadines;###
+6048;118;19;208;Barbuda;###
+6049;9;172;99;StEustatius;###
+6050;154;55;90;StCroix;###
+6051;142;125;93;Mayaguana;###
+6052;132;177;97;Exuma;###
+6053;109;95;87;SanSalvador;###
+6054;131;197;184;Mamana;###
+6055;154;179;44;Nassau;###
+6056;237;147;105;Andros;###
+6057;177;144;240;Abaco;###
+6058;162;152;177;LaTortuga;###
+6059;236;9;8;Cayo;###
+6060;170;56;48;OldProvidence;###
+6061;192;104;62;CaymanIslands;###
+6062;28;200;176;LakeVorts;###
+6063;240;79;203;LochNess;###
+6064;82;176;180;LochLomond;###
+6065;168;57;234;StCatherine;###
+6066;113;243;119;Tafila;###
+6067;125;181;131;Amman;###
+6068;23;70;98;Azraq;###
+6069;74;200;164;UmmElJimal;###
+6070;5;110;130;Irbid;###
+6071;104;194;197;Beersheba;###
+6072;60;94;19;RamlaAshkelon;###
+6073;203;107;175;LajjunHaifa;###
+6074;40;110;215;Tyre;###
+6075;148;192;101;Sidon;###
+6076;90;55;74;Episkopi;###
+6077;145;14;144;Kormakitis;###
+6078;57;75;3;Kyrenia;###
+6079;166;228;212;Margat;###
+6080;107;104;224;Tartus;###
+6081;23;44;73;Daraa;###
+6082;236;43;236;JabalAlDruze;###
+6083;26;211;123;AlSanamayn;###
+6084;223;250;115;Maaloula;###
+6085;167;11;68;Salamiyah;###
+6086;238;218;74;Hama;###
+6087;106;30;203;MaaratAlNuman;###
+6088;34;185;117;AlSukhnah;###
+6089;134;229;226;Rabha;###
+6090;168;207;238;Suluk;###
+6091;223;116;40;Maskanah;###
+6092;240;200;211;Manbij;###
+6093;212;233;189;AzazAfrin;###
+6094;219;68;137;Alexandretta;###
+6095;24;251;52;Kilis;###
+6096;14;9;93;Samos;###
+6097;156;115;96;SyrianDesert;###
+6098;251;141;87;SinaiDesertNegev;###
+6099;138;54;86;Busayra;###
+6100;225;123;28;Viransehir;###
+6101;34;129;154;Samosata;###
+6102;158;103;193;Siverek;###
+6103;15;139;242;Ergani;###
+6104;236;6;161;Egil;###
+6105;64;201;63;Palu;###
+6106;89;136;155;Khozat;###
+6107;242;120;139;Bingol;###
+6108;229;188;94;Qulb;###
+6109;176;133;94;Varto;###
+6110;158;246;105;Manzikert;###
+6111;125;67;237;Agri;###
+6112;210;0;72;Bergiri;###
+6113;162;70;85;Baskale;###
+6114;62;176;135;Hakkari;###
+6115;238;215;53;Ahlat;###
+6116;38;81;23;Akdamar;###
+6117;215;147;183;Cukurca;###
+6118;189;57;22;Telafar;###
+6119;236;66;200;Duhok;###
+6120;175;219;250;Shekhan;###
+6121;40;139;18;Amadiya;###
+6122;34;143;244;Akre;###
+6123;227;188;241;Soran;###
+6124;143;1;173;Ranya;###
+6125;55;60;194;BakhdidaMorMattai;###
+6126;42;209;146;Qayyarah;###
+6127;156;208;190;AzZabShenna;###
+6128;158;155;137;ShirqatAssur;###
+6129;44;237;45;SultanabadChamchamal;###
+6130;215;254;217;Kifri;###
+6131;161;86;238;LashomDaquq;###
+6132;68;225;250;Samarra;###
+6133;78;131;194;Miqdadiyah;###
+6134;160;98;11;Baqubah;###
+6135;107;203;46;Anah;###
+6136;100;63;53;FallujahAnbar;###
+6137;190;156;198;Badra;###
+6138;198;16;4;Numaniyah;###
+6139;157;89;168;Kut;###
+6140;52;251;179;Amarah;###
+6141;202;250;157;Hillah;###
+6142;228;16;232;Kufa;###
+6143;118;238;45;Samawah;###
+6144;99;127;150;DhiQar;###
+6145;193;149;194;AzZubayr;###
+6146;223;73;254;IraqDesert1;###
+6147;54;111;220;IraqDesert2;###
+6148;110;80;121;IraqDesert3;###
+6149;195;103;84;Kelkit;###
 6150;2;2;239;BeyondTypusSecondBuffer231
 6151;2;2;240;BeyondTypusSecondBuffer232
 6152;2;2;241;BeyondTypusSecondBuffer233
@@ -8398,102 +8398,102 @@ province;red;green;blue;x;x
 8397;35;35;251;BeyondTypusSeaAndLake
 8398;40;40;251;BeyondTypusSeaAndLake
 8399;45;45;251;BeyondTypusSeaAndLake
-8400;255;5;5;BeyondTypusWastelands
-8401;255;10;10;BeyondTypusWastelands
-8402;255;15;15;BeyondTypusWastelands
-8403;255;20;20;BeyondTypusWastelands
-8404;255;25;25;BeyondTypusWastelands
-8405;255;30;30;BeyondTypusWastelands
-8406;255;35;35;BeyondTypusWastelands
-8407;255;40;40;BeyondTypusWastelands
-8408;255;45;45;BeyondTypusWastelands
-8409;255;50;50;BeyondTypusWastelands
-8410;255;55;55;BeyondTypusWastelands
-8411;255;60;60;BeyondTypusWastelands
-8412;255;65;65;BeyondTypusWastelands
-8413;255;70;70;BeyondTypusWastelands
-8414;255;75;75;BeyondTypusWastelands
-8415;255;80;80;BeyondTypusWastelands
-8416;255;85;85;BeyondTypusWastelands
-8417;255;90;90;BeyondTypusWastelands
-8418;255;95;95;BeyondTypusWastelands
-8419;255;100;100;BeyondTypusWastelands
-8420;255;105;105;BeyondTypusWastelands
-8421;255;110;110;BeyondTypusWastelands
-8422;255;115;115;BeyondTypusWastelands
-8423;255;120;120;BeyondTypusWastelands
-8424;255;125;125;BeyondTypusWastelands
-8425;255;130;130;BeyondTypusWastelands
-8426;255;135;135;BeyondTypusWastelands
-8427;255;140;140;BeyondTypusWastelands
-8428;255;145;145;BeyondTypusWastelands
-8429;255;150;150;BeyondTypusWastelands
-8430;50;50;19;BeyondTypus
-8431;50;50;94;BeyondTypus
-8432;50;50;169;BeyondTypus
-8433;50;50;244;BeyondTypus
-8434;50;50;44;BeyondTypus
-8435;50;50;119;BeyondTypus
-8436;50;50;194;BeyondTypus
-8437;50;50;69;BeyondTypus
-8438;50;50;144;BeyondTypus
-8439;50;50;219;BeyondTypus
-8440;50;100;19;BeyondTypus
-8441;50;100;94;BeyondTypus
-8442;50;100;169;BeyondTypus
-8443;50;100;244;BeyondTypus
-8444;50;100;44;BeyondTypus
-8445;50;100;119;BeyondTypus
-8446;50;100;194;BeyondTypus
-8447;50;100;69;BeyondTypus
-8448;50;100;144;BeyondTypus
-8449;50;100;219;BeyondTypus
-8450;50;150;19;BeyondTypus
-8451;50;150;94;BeyondTypus
-8452;50;150;169;BeyondTypus
-8453;50;150;244;BeyondTypus
-8454;50;150;44;BeyondTypus
-8455;50;150;119;BeyondTypus
-8456;50;150;194;BeyondTypus
-8457;50;150;69;BeyondTypus
-8458;50;150;144;BeyondTypus
-8459;50;150;219;BeyondTypus
-8460;50;200;19;BeyondTypus
-8461;50;200;94;BeyondTypus
-8462;50;200;169;BeyondTypus
-8463;50;200;244;BeyondTypus
-8464;50;200;44;BeyondTypus
-8465;50;200;119;BeyondTypus
-8466;50;200;194;BeyondTypus
-8467;50;200;69;BeyondTypus
-8468;50;200;144;BeyondTypus
-8469;50;200;219;BeyondTypus
-8470;100;50;19;BeyondTypus
-8471;100;50;94;BeyondTypus
-8472;100;50;169;BeyondTypus
-8473;100;50;244;BeyondTypus
-8474;100;50;44;BeyondTypus
-8475;100;50;119;BeyondTypus
-8476;100;50;194;BeyondTypus
-8477;100;50;69;BeyondTypus
-8478;100;50;144;BeyondTypus
-8479;100;50;219;BeyondTypus
-8480;100;150;19;BeyondTypus
-8481;100;150;94;BeyondTypus
-8482;100;150;169;BeyondTypus
-8483;100;150;244;BeyondTypus
-8484;100;150;44;BeyondTypus
-8485;100;150;119;BeyondTypus
-8486;100;150;194;BeyondTypus
-8487;100;150;69;BeyondTypus
-8488;100;150;144;BeyondTypus
-8489;100;150;219;BeyondTypus
-8490;150;50;19;BeyondTypus
-8491;150;50;94;BeyondTypus
-8492;150;50;169;BeyondTypus
-8493;150;50;244;BeyondTypus
-8494;150;50;44;BeyondTypus
-8495;150;50;119;BeyondTypus
+8400;194;138;208;Stellingwerven;###
+8401;76;57;113;Leer;###
+8402;116;35;107;Bentheim;###
+8403;35;205;1;Lingen;###
+8404;130;74;203;Cloppenburg;###
+8405;183;24;34;Diepholz;###
+8406;252;148;129;Tecklenburg;###
+8407;41;229;212;Coesfeld;###
+8408;2;25;107;Soest;###
+8409;190;195;177;Duisberg;###
+8410;242;164;216;Moers;###
+8411;161;220;195;Prum;###
+8412;166;122;229;Bonn;###
+8413;37;134;245;Solingen;###
+8414;160;30;230;Sayn;###
+8415;183;18;45;Sponheim;###
+8416;90;30;95;Veldenz;###
+8417;255;90;90;Wittlich;###
+8418;154;70;209;Bitburg;###
+8419;57;228;68;Diekirch;###
+8420;180;218;42;Montmedy;###
+8421;100;30;117;Longwy;###
+8422;32;123;187;Bourmont;###
+8423;230;20;198;St Die;###
+8424;255;125;125;Bussendorf;###
+8425;182;175;250;Waldeck;###
+8426;165;180;171;Melsungen;###
+8427;114;142;172;Ziegenhein;###
+8428;21;207;69;Wetzlar;###
+8429;150;198;128;Hanau;###
+8430;50;50;19;Katzenelnbogen;###
+8431;50;50;94;Kaiserslautern;###
+8432;50;50;169;Speyer;###
+8433;50;50;244;Landau;###
+8434;50;50;44;Udenheim;###
+8435;50;50;119;Mosbach;###
+8436;50;50;194;Hohenlohe;###
+8437;50;50;69;Ellwangen;###
+8438;50;50;144;Helfenstein;###
+8439;50;50;219;Offenburg;###
+8440;50;100;19;Lorrach;###
+8441;50;100;94;Furstenburg;###
+8442;50;100;169;Rottweil;###
+8443;50;100;244;Tubingen;###
+8444;50;100;44;Buchau;###
+8445;50;100;119;Biberach;###
+8446;50;100;194;Kempten;###
+8447;50;100;69;Burgau;###
+8448;50;100;144;Hochstadt;###
+8449;50;100;219;Windsheim;###
+8450;50;150;19;Kissingen;###
+8451;50;150;94;Lichtenfels;###
+8452;50;150;169;Schwabach;###
+8453;50;150;244;Kemnath;###
+8454;50;150;44;Neunburg;###
+8455;50;150;119;Mainburg;###
+8456;50;150;194;Eichstatt;###
+8457;50;150;69;Partenkirchen;###
+8458;50;150;144;Tolz;###
+8459;50;150;219;Cham;###
+8460;50;200;19;Landau;###
+8461;50;200;94;Burghausen;###
+8462;50;200;169;Krimml;###
+8463;50;200;244;Pinzgau;###
+8464;50;200;44;Berchtesgaden;###
+8465;50;200;119;Pongau;###
+8466;50;200;194;Hallstatt;###
+8467;50;200;69;Wels;###
+8468;50;200;144;Scharding;###
+8469;50;200;219;Eferding;###
+8470;100;50;19;Weitra;###
+8471;100;50;94;Waidhofen;###
+8472;100;50;169;Horn;###
+8473;100;50;244;Laa;###
+8474;100;50;44;StPolten;###
+8475;100;50;119;Leibnitz;###
+8476;100;50;194;Hartberg;###
+8477;100;50;69;Leoben;###
+8478;100;50;144;Ennstal;###
+8479;100;50;219;Murau;###
+8480;100;150;19;Wolfsberg;###
+8481;100;150;94;Spittal;###
+8482;100;150;169;Kufstein;###
+8483;100;150;244;Landeck;###
+8484;100;150;44;Davos;###
+8485;100;150;119;Thun;###
+8486;100;150;194;Toggenburg;###
+8487;100;150;69;Thurgau;###
+8488;100;150;144;Aargau;###
+8489;100;150;219;Lucerne;###
+8490;150;50;19;Neuchatel;###
+8491;150;50;94;Gruyeres;###
+8492;150;50;169;StMaurice;###
+8493;150;50;244;Zarand;###
+8494;150;50;44;Prekmurje;###
+8495;150;50;119;Nagykanizsa;###
 8496;150;50;194;BeyondTypus
 8497;150;50;69;BeyondTypus
 8498;150;50;144;BeyondTypus
@@ -8542,92 +8542,92 @@ province;red;green;blue;x;x
 8541;200;150;94;BeyondTypus
 8542;200;150;169;BeyondTypus
 8543;200;150;244;BeyondTypus
-8544;200;150;44;Weda
-8545;200;150;119;Crozet Islands
-8546;200;150;194;Putussibau
-8547;200;150;69;Lasan
-8548;200;150;144;CentralTaiwan
-8549;200;150;219;EastTaiwan
-8550;254;5;5;Southern Bornean Highlands
+8544;200;150;44;Weda;x
+8545;200;150;119;Crozet Islands;x
+8546;200;150;194;Putussibau;x
+8547;200;150;69;Lasan;x
+8548;200;150;144;CentralTaiwan;x
+8549;200;150;219;EastTaiwan;x
+8550;254;5;5;UNUSED;### replaced by 4807
 8551;224;195;90;Bhamo;x
 8552;135;237;146;Mong Mit;x
 8553;110;57;172;Mong Yai;x
 8554;125;181;184;Mong Lem;x
-8555;102;172;232;SETaiwan;x 
-8556;8;62;113;Siam;x
-8557;61;44;219;Mempawah;x 
-8558;70;182;116;Landak;x 
-8559;139;112;214;Natuna;x 
-8560;244;166;39;Simanggang;x 
-8561;239;17;249;Mentu Ulau;x 
-8562;33;148;220;Song;x 
-8563;86;237;152;Paser;x 
-8564;2;64;153;Batulicin;x
+8555;102;172;232;SETaiwan;x
+8556;8;62;113;UNUSED;### replaced by 4831
+8557;61;44;219;UNUSED;### replaced by 4802
+8558;70;182;116;UNUSED;### replaced by 4803
+8559;139;112;214;Natuna;x
+8560;244;166;39;UNUSED;### replaced by 4804
+8561;239;17;249;Mentu Ulau;x
+8562;33;148;220;UNUSED;### replaced by 4806
+8563;86;237;152;UNUSED;### replaced by 4800
+8564;2;64;153;UNUSED;### replaced by 4801
 8565;161;203;131;Sukamara;x
-8566;170;119;136;Phetchabun;x
-8567;70;151;233;Lavo;x
-8568;31;155;158;Suphanburi
+8566;170;119;136;UNUSED;### replaced by 4833
+8567;70;151;233;UNUSED;### replaced by 4832
+8568;31;155;158;UNUSED;### replaced by 4834
 8569;195;42;127;Wetar;x
-8570;233;33;46;Thanon Range;x
+8570;233;33;46;UNUSED;### replaced by 4843
 8571;142;9;78;Pasemah;x
 8572;45;81;2;Roi Et;x
 8573;211;90;229;Houaphanh;x
-8574;223;237;102;Lampang;x
-8575;52;68;77;Lamphun;x
+8574;223;237;102;UNUSED;### replaced by 4842
+8575;52;68;77;UNUSED;### replaced by 4841
 8576;174;84;74;Phrae;x
 8577;108;142;212;Songkhla;x
 8578;254;131;7;Terang;x
-8579;70;6;13;Gerik;x
+8579;70;6;13;UNUSED;### replaced by 4812
 8580;149;182;108;Sa Kaeo;x
 8581;133;134;68;Nicobar Islands;x
-8582;217;227;78;Sri Thep;x
-8583;246;202;213;Kampot;x
+8582;217;227;78;UNUSED;### replaced by 4836
+8583;246;202;213;UNUSED;### replaced by 4826
 8584;188;158;140;Northern Arakan;x
 8585;254;87;63;Akyab;x
-8586;49;106;149;Idkabue;x
+8586;49;106;149;UNUSED;### replaced by 608
 8587;62;195;240;Khong Chiam;x
-8588;229;72;178;Salavan;x
-8589;180;65;200;Preah Vihear;x
-8590;244;73;102;Kampong Pous Thom;x
-8591;80;153;131;Pursat;x
+8588;229;72;178;UNUSED;### replaced by 4840
+8589;180;65;200;UNUSED;### replaced by 4828
+8590;244;73;102;UNUSED;### replaced by 4827
+8591;80;153;131;UNUSED;### replaced by 4825
 8592;8;226;238;Vi Xuyen;x
 8593;45;65;74;Minh Quang;x
-8594;72;246;92;Nghe An
-8595;240;201;177;Semantan;x
-8596;42;234;191;Rhade Dak Lak;x
+8594;72;246;92;UNUSED;### replaced by 4821
+8595;240;201;177;UNUSED;### replaced by 4814
+8596;42;234;191;UNUSED;### replaced by 4824
 8597;29;58;54;Son Nam;x
 8598;198;208;51;Muang Xay;x
-8599;10;216;35;Hpa An;x
+8599;10;216;35;UNUSED;### replaced by 4844
 8600;200;204;204;Myawaddy;x
-8601;183;151;162;Asahan;x
+8601;183;151;162;UNUSED;### replaced by 4810
 8602;123;249;138;Tapanuli;x
 8603;255;242;0;Serampas;x
 8604;87;15;199;Kuansing;x
-8605;201;176;33;Langkat;x
+8605;201;176;33;UNUSED;### replaced by 4809
 8606;126;174;66;Batahan;x
-8607;90;117;254;Kluet;x
-8608;107;238;117;Annamite Mountains;x
-8609;251;99;116;Cao Bac;x
-8610;60;62;207;Ten Layer Mountains;x
-8611;218;141;39;Bone;x
-8612;34;135;90;Wajo;x
-8613;141;235;242;Soppeng;x
+8607;90;117;254;UNUSED;### replaced by 4811
+8608;107;238;117;Annamite Mountains;###
+8609;251;99;116;Cao Bac;### WASTELAND
+8610;60;62;207;UNUSED;###
+8611;218;141;39;UNUSED;### replaced by 4795
+8612;34;135;90;UNUSED;### replaced by 4798
+8613;141;235;242;UNUSED;### replaced by 4797
 8614;86;68;51;Mandar;x
 8615;202;86;142;Luwu;x
 8616;72;208;96;Banggai;x
-8617;153;217;234;Muang Ngoi;x
-8618;255;174;201;Xayabuli
+8617;153;217;234;UNUSED;### replaced by 4837
+8618;255;174;201;Xayabuli;x
 8619;220;146;58;Mangkunagara;x
-8620;82;250;20;Yogyakarta;x
-8621;206;67;68;Surakarta;x
-8622;89;137;120;Bandung;x
+8620;82;250;20;UNUSED;### replaced by 4792
+8621;206;67;68;UNUSED;### replaced by 4793
+8622;89;137;120;UNUSED;### replaced by 4790
 8623;140;24;230;Sumedang;x
 8624;29;160;114;Mort Chrouk;x
 8625;97;229;246;Raung Damrey;x
-8626;49;32;101;Sambaliung;x
+8626;49;32;101;UNUSED;### replaced by 4799
 8627;42;36;172;Kartanegara;x
-8628;64;34;227;Amaravati;x
-8629;243;152;94;Lach;x
+8628;64;34;227;UNUSED;### replaced by 4822
+8629;244;127;24;UNUSED;### replaced by 2375
 8630;155;212;78;Bima;x
 8631;0;36;193;East Flores;x
 8632;88;79;4;Simeulue;x
@@ -8635,8 +8635,8 @@ province;red;green;blue;x;x
 8634;39;177;131;Obi;x
 8635;56;165;11;Jailolo;x
 8636;216;222;106;Tenasserim;x
-8637;64;185;81;Rayong;x
-8638;73;166;125;Kanchanaburi;x
+8637;64;185;81;UNUSED;### replaced by 4830
+8638;73;166;125;UNUSED;### replaced by 4835
 8639;255;219;167;Phichai;x
 8640;247;86;95;Tak;x
 8641;177;121;40;Chakangrao;x
@@ -8647,33 +8647,33 @@ province;red;green;blue;x;x
 8646;95;240;91;Phongsali;x
 8647;30;75;168;Muang Song;x
 8648;72;120;3;Muang Lai;x
-8649;126;92;227;Singapore;x
+8649;126;92;227;UNUSED;### replaced by 4815
 8650;15;116;129;Mongpale;x
 8651;74;46;23;Syriam;x
 8652;115;153;179;Hamu Lithit;x
-8653;139;228;239;Simhampura;x
+8653;139;28;239;Simhampura;### repainted from 139
 8654;63;84;1;Mnong;x
-8655;14;250;133;Ma;x
+8655;14;250;133;UNUSED;### replaced by 4829
 8656;121;190;21;Lao Cai;x
-8657;208;153;145;Hung Hoa;x
+8657;208;153;145;UNUSED;### replaced by 4820
 8658;11;126;122;Thai Nguyen;x
-8659;9;227;76;Lang Son;x
-8660;51;190;127;Raffles Bay;x
-8661;133;88;63;Nunggubuyu;x
-8662;245;147;63;Garawa;
-8663;104;237;86;Miriwoong;x
-8664;146;172;235;Wunumbal;x
-8665;240;192;84;Murrinh-Patha;x
-8666;173;143;209;Kuuk Thaayorre;x
+8659;9;227;76;UNUSED;### replaced by 4819
+8660;51;190;127;UNUSED;###
+8661;133;88;63;UNUSED;###
+8662;245;147;63;UNUSED;###
+8663;104;237;86;UNUSED;###
+8664;146;172;235;UNUSED;###
+8665;240;192;84;UNUSED;###
+8666;173;143;209;UNUSED;###
 8667;1;133;181;Penang;x
 8668;125;30;162;Dindings;x
 8669;44;180;97;Klang;x
 8670;250;230;35;Negeri Sembilan;x
-8671;27;50;246;Klian Pauh;x
-8672;230;179;234;Perlis
+8671;27;50;246;UNUSED;### replaced by 4813
+8672;230;179;234;Perlis;x
 8673;214;174;104;Menara;x
 8674;7;228;73;Batu Mengkebang;x
-8675;240;117;174;Lipis
+8675;240;117;174;Lipis;x
 8676;224;200;114;Peanut Pinya;x
 8677;153;85;112;Myinsaing;x
 8678;2;146;19;Tagaung;x
@@ -8685,26 +8685,26 @@ province;red;green;blue;x;x
 8684;114;71;144;Vat Nokor;x
 8685;200;184;28;Pourang;x
 8686;69;101;75;Tanjungpura;x
-8687;222;38;99;Mandaling;x
+8687;222;38;99;UNUSED;### replaced by 4808
 8688;249;64;232;Meulaboh;x
 8689;144;56;24;Alas;x
-8690;144;219;215;Inderapura;x
+8690;144;219;215;UNUSED;### replaced by 4818
 8691;230;203;36;Pelalawan;x
 8692;17;227;164;Banju Asin;x
 8693;166;203;154;Kaur;x
 8694;171;158;244;Semangka;x
 8695;41;22;90;Lampung;x
-8696;149;67;117;Tiku;x
+8696;149;67;117;UNUSED;### replaced by 4817
 8697;18;62;125;Sintang;x
 8698;30;211;141;Kahajan;x
 8699;23;94;234;Sampit;x
 8700;24;10;67;Keningau;x
-8701;126;254;199;Mukah;x
+8701;126;254;199;UNUSED;### replaced by 4805
 8702;239;91;133;Amuntai;x
 8703;71;192;116;Dusun;x
 8704;77;143;182;Moutong;x
-8705;49;183;230;Poleang;x
-8706;163;46;193;Mamuju;x
+8705;49;183;230;UNUSED;### replaced by 4796
+8706;163;46;193;UNUSED;### replaced by 4845
 8707;27;49;189;Bungku;x
 8708;196;115;92;Gresik;x
 8709;12;89;150;Pampanga;x
@@ -8716,8 +8716,8 @@ province;red;green;blue;x;x
 8715;159;152;235;Blaan;x
 8716;57;249;149;Masbate;x
 8717;41;52;135;Madiun;x
-8718;218;90;58;Malang;x
-8719;111;155;173;Indramayu;x
+8718;218;90;58;UNUSED;### replaced by 4794
+8719;111;155;173;UNUSED;### replaced by 4791
 8720;49;113;152;Taguima;x
 8721;114;233;224;Tawi Tawi;x
 8722;196;89;149;Manggarai;x
@@ -8727,6 +8727,6 @@ province;red;green;blue;x;x
 8726;63;106;171;Cova Lima;x
 8727;213;192;69;Maubara;x
 8728;163;207;101;Sikhottrabun;x
-8729;16;56;152;Khemarat;x
+8729;16;56;152;UNUSED;### replaced by 4838
 8730;133;103;47;Phanom Rung;x
 8731;168;94;55;Khamkeut;x

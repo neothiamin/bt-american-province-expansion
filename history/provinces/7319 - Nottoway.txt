@@ -1,13 +1,13 @@
-culture = iroquois #The Cheroenhaka are related to the Iroquois, similarly to the Tuscarora in North Carolina
-religion = totemism
-capital = "Cattashowrock"
-trade_goods = unknown
-hre = no
-base_tax = 2 
-base_production = 1
-base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
-
-discovered_by = north_american
+#culture = iroquois #The Cheroenhaka are related to the Iroquois, similarly to the Tuscarora in North Carolina
+#religion = totemism
+#capital = "Cattashowrock"
+#trade_goods = unknown
+#hre = no
+#base_tax = 2 
+#base_production = 1
+#base_manpower = 1
+#native_size = 5
+#native_ferocity = 1
+#native_hostileness = 2
+#
+#discovered_by = north_american

@@ -1,13 +1,13 @@
-culture = choctaw		#From Choctaw "homma" - red, and "chito" - big. https://books.google.com/books?id=MgNgEVvsaZcC&pg=PA40#v=onepage&q&f=false
-religion = totemism
-capital = "Homochitto"
-trade_goods = unknown
-hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 12
-native_ferocity = 1
-native_hostileness = 2
-
-discovered_by = north_american
+#culture = choctaw		#From Choctaw "homma" - red, and "chito" - big. https://books.google.com/books?id=MgNgEVvsaZcC&pg=PA40#v=onepage&q&f=false
+#religion = totemism
+#capital = "Homochitto"
+#trade_goods = unknown
+#hre = no
+#base_tax = 1 
+#base_production = 1
+#base_manpower = 1
+#native_size = 12
+#native_ferocity = 1
+#native_hostileness = 2
+#
+#discovered_by = north_american
