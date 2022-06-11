@@ -20,9 +20,9 @@ native_ferocity = 3
 native_hostileness = 5
 
 #Cores and Occupation (Alphabetical after current)
-add_core = IRO
-owner = IRO
-controller = IRO
+add_core = SEN
+owner = SEN
+controller = SEN
 
 #Other Political
 hre = no
