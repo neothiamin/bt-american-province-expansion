@@ -7,7 +7,7 @@ capital = "Gä'nowungo" #After the lake nearby
 is_city = no
 
 #Demographics
-culture = huron
+culture = tionontate
 religion = totemism
 
 #Development and Trade
@@ -21,6 +21,10 @@ native_hostileness = 2
 
 #Cores and Occupation (Alphabetical after current)
 #
+
+1444.1.1 = {
+	tribal_owner = ERI
+}
 
 #Other Political
 hre = no

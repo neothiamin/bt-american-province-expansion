@@ -1,7 +1,7 @@
 #8741 - Ogeechee
 #After the Ogeechee River
 
-culture = creek
+culture = yamasee
 religion = totemism
 capital = "Guale"
 trade_goods = unknown
@@ -14,3 +14,7 @@ native_ferocity = 1
 native_hostileness = 2
 
 discovered_by = north_american
+
+1444.1.1 = {
+	tribal_owner = ALT
+}

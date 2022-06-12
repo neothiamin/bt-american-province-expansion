@@ -1,4 +1,4 @@
-culture = creek 	#The Taensa/Tensaw for which this province and the river here are named only migrated to the region in the early 18th century. One can probably assume that a Creek-related tribe lived here prior.
+culture = choctaw 	#The Taensa/Tensaw for which this province and the river here are named only migrated to the region in the early 18th century. One can probably assume that a Creek-related tribe lived here prior. #Changed to Choctaw for aesthetic reasons
 religion = totemism
 capital = "Tensaw"
 trade_goods = unknown

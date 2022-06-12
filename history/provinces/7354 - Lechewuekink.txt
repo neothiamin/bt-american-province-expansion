@@ -22,6 +22,10 @@ native_hostileness = 4
 #Cores and Occupation (Alphabetical after current)
 #add_core = 
 
+1444.1.1 = {
+	tribal_owner = LEN
+}
+
 #Other Political
 hre = no
 
