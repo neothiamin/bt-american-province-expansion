@@ -1,5 +1,7 @@
 1.5:
 
++ Updated to BT15 and EU4 1.33.3
+
 + New provinces:
 
 	+ Eastern Pennsylvania - 6 (Tunkahannock, Chenango, Tioga, Tankamochkhanna, Lechewuekink, Chottschinschu'hak'ing)
