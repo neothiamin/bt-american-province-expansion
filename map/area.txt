@@ -2702,6 +2702,7 @@ chesapeake_area = {
 	950 952 953 2550 2554 4877 7317 7318 7324 7329
 }
 great_valley_area = {
+	color = { 0 147 175 }
 	949 2011 2549 2552 2553 
 }
 piedmont_north_america_area = {
@@ -2759,6 +2760,7 @@ mississippi_plain_area = {
 	916 917 2520 4904 
 }
 lower_louisiana_area = {
+	color = { 16 52 166 }
 	893 894 895 2014 2516 4885 4886 7309 7334 7335 7336 7340
 }
 upper_louisiana_area = {

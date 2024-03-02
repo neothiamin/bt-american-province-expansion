@@ -1,3 +1,10 @@
+1.5.1:
+
+* Renamed 7318 to Tappahannock
+* Changed the area mapmode colors of:
+	- Great Valley
+	- Louisiana
+
 1.5:
 
 + Updated to BT15 and EU4 1.33.3
