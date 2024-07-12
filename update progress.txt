@@ -97,3 +97,138 @@ adjacencies
 
 965;7321;sea;1500;-1;-1;-1;-1;Manhattan-Unkechaug
 2010;7320;sea;1500;-1;-1;-1;-1;Connecticut-Mohegan
+
+BT16: 
+APE provs to reassign - 7280 through 7299
+
+7280;117;55;55;Tocobaga;x
+7281;253;75;75;Kissimmee;x
+7282;100;171;75;Myakka;x
+7283;100;192;75;Ocala;x
+7284;100;75;80;Jaega;x
+7285;100;254;75;Tequesta;x
+7286;220;50;50;Choctawatchee;x
+7287;178;50;50;Apalachicola;x
+7288;88;88;91;Altamaha;x
+7289;88;204;88;Ogeechee;x
+7290;88;166;88;Ocmulgee;x
+7291;137;88;88;Tugaloo;x
+7292;50;214;50;Flint;xREPLACED BY 4881
+7293;234;25;25;Combahee;xREPLACED BY 4880
+7294;87;220;87;White Oak;x
+7295;220;88;88;Cape Lookout;x
+7296;88;205;88;Peedee;x
+7297;88;90;88;Albemarle;x
+7298;138;88;88;Tar;x
+7299;88;207;88;Etowah;x
+7300;182;88;88;Alabama Coosa;x
+7301;118;50;50;Tombigbee;x
+7302;87;146;87;Pascagoula;x###APE START
+7303;85;173;85;Machapunga;x
+7304;169;112;169;Edisto;x
+7305;85;85;227;Tensaw;x
+7306;139;85;85;Bogalousa;x
+7307;180;30;30;Tangipahoa;x
+7308;30;85;85;Catahoula;x
+7309;30;250;250;Atchafalaya;x
+7310;85;91;85;Fork;x
+7311;85;85;118;Homochitto;x
+7312;113;168;168;Tupelo;x
+7313;30;235;30;Natachucky;x
+7314;90;169;169;Hiwassee;x
+7315;30;250;30;Chattanooga;x
+7316;149;169;169;Hatchee;x
+7317;206;85;85;Pocomoke;x
+7318;30;193;30;Rappahannock;x
+7319;31;168;168;Nottoway;x###REPLACED by 4877
+7320;168;124;168;Mohegan;x
+7321;85;217;85;Unkechaug;x
+7322;250;168;168;Occaneechi;x
+7323;85;250;85;Pontoosuck;x###REPLACED by 4874 - Westenhuck
+7324;169;113;169;Patapsco;x
+7325;30;160;30;Naugatuck;x
+7326;85;85;241;Willimantic;x
+7327;114;168;168;Taunton;x
+7328;85;206;85;Cape Cod;x
+7329;54;31;31;Accomac;x
+7330;31;43;31;Atascosa;x
+7331;30;30;111;Aransas;x
+7332;31;31;105;Auia;x
+7333;30;30;133;Hainai;x
+7334;30;30;151;Calcasieu;x
+7335;75;32;32;Yatassi;x
+7336;106;31;31;Ouachita;x
+
+Recolors - 7300 through 7336
+
+7300 Y
+7301 Y
+7302 Y
+7303
+7305
+7306
+7307
+7309
+7310
+7312
+7313
+7315
+7316
+7317
+7318
+7320
+7321
+7322
+7324
+7325
+7326
+7327
+7328
+7329
+7330
+7331
+7332
+7333
+7334
+7335
+7336
+
+--------
+REASSIGN
+--------
+
+7280 -> 7359
+7281 -> 7360
+7282 -> 7361
+7283 -> 7362
+7284 -> 7363
+7285 -> 7364
+7286 -> 7365
+7287 -> 7366
+7288 -> 7367
+7289 -> 7368
+7290 -> 7369
+7291 -> 7370
+7292 -> 7371
+7293 -> 7372
+7294 -> 7373
+7295 -> 7374
+7296 -> 7375
+7297 -> 7376
+7298 -> 7377
+7299 -> 7378
+
+RECOLOR AGAIN
+
+7337
+7338
+7339
+7341
+7342
+7343
+7344
+7345
+7346
+7347
+7348
+7349

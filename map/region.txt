@@ -151,7 +151,6 @@ scandinavia_region = { # 18 areas
 		iceland_area
 		schleswig_area
 		west_karelia_area
-		southern_norway_area
 		trondelag_area
 	}
 }
@@ -364,7 +363,7 @@ carpathia_region = { # 15 areas
 	}
 }
 # Asia / 32 regions / 295 areas
-caucasia_region = { # 6 areas
+caucasia_region = { # 8 areas
 	areas = {
 		imereti_area
 		samtskhe_area
@@ -372,6 +371,8 @@ caucasia_region = { # 6 areas
 		shirvan_area
 		circassia_area
 		dagestan_area
+		kartli_kakheti_area
+		talysh_area
 	}
 }
 anatolia_region = { # 14 areas
@@ -385,7 +386,7 @@ anatolia_region = { # 14 areas
 		karaman_area
 		cukurova_area
 		dulkadir_area
-		lydia_area
+		#lydia_area #BT Cut
 		pontus_area
 		karasi_area
 		pamphylia_area
@@ -401,8 +402,8 @@ mashriq_region = { #Levant 9 areas
 		syrian_desert_area
 		cyprus_area
 		tripoli_area
-		bargylus_area
-		hauran_area
+		#bargylus_area #BT Cut
+		#hauran_area #BT Cut
 	}
 }
 mesopotamia_region = { # 14 areas
@@ -984,7 +985,7 @@ sahel_region = { # 13 areas
 		00.09.30
 	}
 }
-horn_of_africa_region = { # 17 areas
+horn_of_africa_region = { 
 	areas = {
 		ogaden_area
 		sennar_area
@@ -1003,6 +1004,15 @@ horn_of_africa_region = { # 17 areas
 		white_nile_area
 		butana_area
 		medri_bahri_area
+		semien_area
+		begemder_area
+		gojjam_area
+		illuabor_area
+		omo_valley_area
+		arsi_area
+		bale_area
+		borana_area
+		hobyo_area
 	}
 }
 east_africa_region = { # 18 areas
@@ -1466,20 +1476,82 @@ colombia_region = { # 13 areas
 		00.11.30
 	}
 }
-# Oceania / 3 regions / 25 areas
-australia_region = { # 6 areas
+# Oceania / 6 regions / 57 areas
+australia_region = { # Southeastern Australia # 13 areas
 	areas = {
-		western_australia_area
-		northern_australia_area
-		top_end_area
 		eastern_australia_area
 		southern_australia_area
 		murray_river_area
-		illawara_area # new in 1.31
-		north_queensland_area # new in 1.31
-		south_queensland_area # new in 1.31
-		pilbara_area # new in 1.31
-		tasmania_area # new in 1.31
+		illawara_area
+		tasmania_area
+		upper_darling_plains_area
+		northern_tablelands_area
+		southeast_highlands
+		cape_howe_area
+		riverina_area
+		naracoorte_area
+		gulf_of_st_vincent_area
+		flinders_ranges_area
+		eyre_peninsula_area
+	}
+}
+northeastern_australia_region = {	# 10 areas
+	areas = {
+		northern_australia_area
+		north_queensland_area
+		south_queensland_area
+		east_mitchell_downs_area
+		desert_uplands_area
+		channel_country_area
+		mulga_lands_area
+		gulf_country_area
+		einasleigh_area
+		coral_coast_area
+	}
+	monsoon = {
+		00.10.01
+		00.12.30
+	}
+	monsoon = {
+		00.01.01
+		00.03.30
+	}
+}
+northern_australia_region = {	# 10 areas
+	areas = {
+		top_end_area
+		arnhemland_area
+		carpentaria_area
+		west_mitchell_downs_area
+		deep_outback_area
+		great_victorian_plain_area
+		sturt_plateau_area
+		bonaparte_gulf_area
+		kimberley_area
+		dampierland_area
+	}
+	monsoon = {
+		00.10.01
+		00.12.30
+	}
+	monsoon = {
+		00.01.01
+		00.03.30
+	}
+}
+western_australia_region = {	# 11 areas
+	areas = {
+		western_australia_area
+		pilbara_area
+		stony_plains_area
+		nullarbor_area
+		great_victoria_desert_area
+		gascoyne_area
+		murchison_area
+		goldfields_area
+		esperance_plains_area
+		avon_savanna_area
+		rainbow_coast_area
 	}
 	monsoon = {
 		00.10.01

@@ -1,4 +1,4 @@
-version="1.5"
+version="1.6"
 tags={
 	"Map"
 	"Beyond Typus"
@@ -9,4 +9,4 @@ dependencies={
 }
 picture="thumbnail.png"
 name="-BT Addon: American Province Expansion TESTING"
-supported_version="1.33.*"
+supported_version="v1.37.2.0"
