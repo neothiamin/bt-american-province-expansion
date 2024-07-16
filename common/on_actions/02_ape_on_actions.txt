@@ -1,0 +1,21 @@
+on_startup = {
+	if = {
+		limit = {
+			has_global_flag = UOP_modifiers_given
+		}
+		every_province = {
+			limit = {
+				OR = {
+					region = northeast_america_region
+					region = southeast_america_region
+					region = mississippi_region
+					area = coastal_prarie_area
+					area = pecos_area
+				}
+				has_province_modifier = BT_UOP_province
+			}
+			remove_province_modifier = BT_UOP_province
+		}
+	}
+	
+}
